@@ -24,7 +24,8 @@ pot instal·lar manualment:
 1. Obre el **Outer Wilds Mod Manager** i instal·la
    **[OWML](https://outerwildsmods.com/mods/owml/)** quan te'l demani. Després instal·la
    **Interplanetary Polyglot** des de la pestanya *Mods*.
-2. Descarrega el `.zip` del mod des de la pestanya **Releases** d'aquest repositori.
+2. Descarrega el `.zip` del mod des de la pestanya
+   **[Releases](https://github.com/davitens/outer_wilds_catalan/releases)** d'aquest repositori.
 3. Descomprimeix-lo dins la carpeta `OWML/Mods/`, de manera que quedi així:
 
    ```
@@ -50,7 +51,7 @@ Al joc: **Opcions → Idioma → Català**.
 
 ## Crèdits i avís legal
 
-- Traducció: [davitens](https://github.com/davitens)
+- Traducció: DeepSeek V4.1 Flash
 - Interplanetary Polyglot: xen-42
 - Outer Wilds és propietat de Mobius Digital. Aquest és contingut fet per fans i
   segueix la
@@ -72,7 +73,8 @@ installed manually for now. Open the
 [Outer Wilds Mod Manager](https://outerwildsmods.com/mod-manager/) and let it install
 [OWML](https://outerwildsmods.com/mods/owml/) when prompted; install
 **Interplanetary Polyglot** from the *Mods* tab; then download the mod's `.zip` from
-the **Releases** tab of this repo and extract it into the game's `OWML/Mods/` folder,
+the **[Releases](https://github.com/davitens/outer_wilds_catalan/releases)** tab of this
+repo and extract it into the game's `OWML/Mods/` folder,
 so you get `OWML/Mods/davitens.CatalanTranslation/`. Launch the game from the manager
 and set **Options → Language → Català**. Untranslated strings fall back to English.
 Licensed under MIT; fan content per Mobius Digital's fan content policy.
