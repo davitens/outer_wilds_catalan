@@ -1,0 +1,1444 @@
+{
+ "entries": [
+  {
+   "id": "regular:240",
+   "translation": "Si no ho faig, d'on surts tu?"
+  },
+  {
+   "id": "regular:241",
+   "translation": "Suposo que ho descobrirem!"
+  },
+  {
+   "id": "regular:242",
+   "translation": "Crec que sí, almenys. Tot i que tinc una pregunta per a tu: què creus que passarà si no tornes a saltar al forat negre al final d'aquest bucle?"
+  },
+  {
+   "id": "regular:243",
+   "translation": "Hmm. Bona pregunta."
+  },
+  {
+   "id": "regular:244",
+   "translation": "Si no ho faig, d'on surts tu?"
+  },
+  {
+   "id": "regular:245",
+   "translation": "Suposo que ho descobrirem!"
+  },
+  {
+   "id": "regular:246",
+   "translation": "Ei, què creus que passarà si no tornes a saltar al forat negre al final d'aquest bucle?"
+  },
+  {
+   "id": "regular:247",
+   "translation": "Hmm. Bona pregunta."
+  },
+  {
+   "id": "regular:248",
+   "translation": "Si no ho faig, d'on surts tu?"
+  },
+  {
+   "id": "regular:249",
+   "translation": "Suposo que ho descobrirem!"
+  },
+  {
+   "id": "regular:250",
+   "translation": "És una cosa que m'he estat preguntant. En aquest punt estem en territori completament inexplorat."
+  },
+  {
+   "id": "regular:251",
+   "translation": "A diferència de tota la resta de manipulacions temporals que hem experimentat."
+  },
+  {
+   "id": "regular:252",
+   "translation": "De debò, som el Feldspar de les coses estranyes del temps."
+  },
+  {
+   "id": "regular:253",
+   "translation": "És un bon argument."
+  },
+  {
+   "id": "regular:254",
+   "translation": "Vull dir, <i>sento</i> que soc tan real com sempre, així que no crec que sigui una fantasia de la teva imaginació ni res semblant."
+  },
+  {
+   "id": "regular:255",
+   "translation": "Això és exactament el que diria una fantasia de la meva imaginació!"
+  },
+  {
+   "id": "regular:256",
+   "translation": "No en soc cap expert, però a mi em sembles força real."
+  },
+  {
+   "id": "regular:257",
+   "translation": "Suposo que sí!"
+  },
+  {
+   "id": "regular:258",
+   "translation": "Ai, caram, el Feldspar faria servir el bucle temporal per provar acrobàcies cada cop més esbojarrades, oi? Potser és bo que no en sigui conscient."
+  },
+  {
+   "id": "regular:259",
+   "translation": "Gràcies. Tu també em sembles real, així que... suposo que ara som dos!"
+  },
+  {
+   "id": "regular:260",
+   "translation": "Em vols respondre amb insolència? No pots ser insolent amb mi! Tu <i>ets</i> jo!"
+  },
+  {
+   "id": "regular:261",
+   "translation": "Tot i que això demostra que som la mateixa persona."
+  },
+  {
+   "id": "regular:262",
+   "translation": "De tota manera, ha estat bé parlar amb tu, jo. <Pause/> ...Increïblement estrany, però bé."
+  },
+  {
+   "id": "regular:263",
+   "translation": "Fins aviat!"
+  },
+  {
+   "id": "regular:264",
+   "translation": "Què hem fet?! Saltar a aquell forat negre va ser una idea <i>terrible</i>!"
+  },
+  {
+   "id": "regular:265",
+   "translation": "Sí. Sí, ho va ser."
+  },
+  {
+   "id": "regular:266",
+   "translation": "Necessitava saber què passaria."
+  },
+  {
+   "id": "regular:267",
+   "translation": "AAAAAAAAAAAAHHH!"
+  },
+  {
+   "id": "regular:268",
+   "translation": "...D'acord. D'acord, estic calmat."
+  },
+  {
+   "id": "regular:269",
+   "translation": "AAAAAAAAAAAAHHH!"
+  },
+  {
+   "id": "regular:270",
+   "translation": "Només necessitava treure-m'ho de dins."
+  },
+  {
+   "id": "regular:271",
+   "translation": "AAAAAAAAAAAAAAAHHH!"
+  },
+  {
+   "id": "regular:272",
+   "translation": "AAAAAAAAHHHhhh d'acord, jo també he acabat de cridar."
+  },
+  {
+   "id": "regular:273",
+   "translation": "AAAAAAAAAAAAAAAHHH! <b>AAAAAAAAAAAAAAAAAAAHHH!</b>"
+  },
+  {
+   "id": "regular:274",
+   "translation": "AAAAAaaaAAAAAaAAaaaaaHHH!"
+  },
+  {
+   "id": "regular:275",
+   "translation": "WAAAAAAAAAAAUUUUUUUUUUGH!"
+  },
+  {
+   "id": "regular:276",
+   "translation": "AAA<b>AAaaaAA</b>AAAaAAaaa<b>aaAAAHHH</b>!"
+  },
+  {
+   "id": "regular:277",
+   "translation": "<i>AAAAAAAAAAAAAAAAAUGHHHH!</i>"
+  },
+  {
+   "id": "regular:278",
+   "translation": "AAAAAAaaah... hhh... ha."
+  },
+  {
+   "id": "regular:279",
+   "translation": "<b>WAAAAAAAAAAAAAAAAAUUUUUUUUUUGH!</b>"
+  },
+  {
+   "id": "regular:280",
+   "translation": "<i>WAAAAAAAAAAAAAAURGLHHH!</i>"
+  },
+  {
+   "id": "regular:281",
+   "translation": "AAAAAAaaah... hhh... ha."
+  },
+  {
+   "id": "regular:282",
+   "translation": "AAAAAAAHHHhhh... (pant, pant)<Pause/>..."
+  },
+  {
+   "id": "regular:283",
+   "translation": "Estàs bé?"
+  },
+  {
+   "id": "regular:284",
+   "translation": "...AAAAAAH! AAAAAAAAAAAAAHHH!!"
+  },
+  {
+   "id": "regular:285",
+   "translation": "...Estic bé."
+  },
+  {
+   "id": "regular:286",
+   "translation": "<size=50>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHH!!</size>"
+  },
+  {
+   "id": "regular:287",
+   "translation": "Ei, jo."
+  },
+  {
+   "id": "regular:288",
+   "translation": "Te'n recordes, de quan vam marxar en el nostre primer viatge en solitari?"
+  },
+  {
+   "id": "regular:289",
+   "translation": "Te'n recordes, de quan vam aterrar la nau a la Sun Station?"
+  },
+  {
+   "id": "regular:290",
+   "translation": "Sí! Sembla que hagi passat una eternitat.\\\\n\\\\nTot i així, hauríem mort aquella primera vegada si no existís el bucle temporal. No és estrany de pensar?"
+  },
+  {
+   "id": "regular:291",
+   "translation": "Més estrany que el fet que ara siguem dos?"
+  },
+  {
+   "id": "regular:292",
+   "translation": "Estàvem desastrosament poc preparats per a l'espai."
+  },
+  {
+   "id": "regular:293",
+   "translation": "En Tuff tenia raó: SÍ que soc el pitjor."
+  },
+  {
+   "id": "regular:294",
+   "translation": "Vaja, suposo que SÍ que soc força sarcàstic."
+  },
+  {
+   "id": "regular:295",
+   "translation": "És inquietant de pensar-hi. Sobretot quan recordes que fins i tot en Riebeck va sobreviure al seu primer llançament."
+  },
+  {
+   "id": "regular:296",
+   "translation": "SÍ. No em puc creure que no hi hagués ningú per veure-ho.\\\\n\\\\nA hores d'ara devem ser el millor pilot del programa espacial."
+  },
+  {
+   "id": "regular:297",
+   "translation": "Sí, però també hem mort més que ningú."
+  },
+  {
+   "id": "regular:298",
+   "translation": "No és que ningú altre ho sàpiga."
+  },
+  {
+   "id": "regular:299",
+   "translation": "Necessitava presumir una mica d'això davant d'algú."
+  },
+  {
+   "id": "regular:300",
+   "translation": "Això va passar tècnicament, <i>tenint en compte</i> com funciona el bucle temporal?"
+  },
+  {
+   "id": "regular:301",
+   "translation": "És cert. <pause> No sé com tenir-ho en compte."
+  },
+  {
+   "id": "regular:302",
+   "translation": "Tot i així, està bé poder-ho dir en veu alta. Encara que sigui només a nosaltres mateixos."
+  },
+  {
+   "id": "regular:303",
+   "translation": "Està bé. És agradable sentir-ho dir en veu alta."
+  },
+  {
+   "id": "regular:304",
+   "translation": "Què? ...Ah, vinga, no ens ho prenguis!"
+  },
+  {
+   "id": "regular:305",
+   "translation": "És broma, no m'importa com funciona el temps."
+  },
+  {
+   "id": "regular:306",
+   "translation": "Però tenint en compte que només va passar en un bucle anterior..."
+  },
+  {
+   "id": "regular:307",
+   "translation": "Haha, sí, a mi tampoc. <pause> ...Òbviament."
+  },
+  {
+   "id": "regular:308",
+   "translation": "La pitjor part és que som la mateixa persona, i saps que hi estaré d'acord. (Sospir...)"
+  },
+  {
+   "id": "regular:309",
+   "translation": "CLARY: Pel que fa a les torres de salt d'<color=lightblue>Ash Twin</color>: cada torre ha d'estar perfectament alineada amb el centre del cos astral al qual està sintonitzada?"
+  },
+  {
+   "id": "regular:310",
+   "translation": "CLARY: M'agrada la precisió tant com al següent Nomai, però si, per exemple, la base d'una torre es desplacés ni que sigui lleugerament, aquella torre podria deixar d'alinear-se amb el seu cos astral."
+  },
+  {
+   "id": "regular:311",
+   "translation": "POKE: No cal que l'angle d'alineació sigui exacte; només ha d'estar dins de cinc graus del centre del cos astral."
+  },
+  {
+   "id": "regular:312",
+   "translation": "POKE: A destacar: això ens dona una finestra de salt una mica més llarga. M'imagino que aquesta finestra durarà aproximadament uns quants segons."
+  },
+  {
+   "id": "regular:313",
+   "translation": "POKE: Per tant, qualsevol Nomai que trepitgi la plataforma de salt durant la finestra activa serà transportat immediatament. Haurem d'anar amb compte a prop de la plataforma mentre estigui activa per evitar transportar-nos per accident."
+  },
+  {
+   "id": "regular:314",
+   "translation": "CLARY: Més exactament, m'agrada la precisió tant com al següent Nomai, sempre que el següent Nomai no sigui la Poke."
+  },
+  {
+   "id": "regular:315",
+   "translation": "ROOT: On he de portar aquest primer nucli de forat negre? (I on portaré els nuclis restants quan estiguin a punt?)"
+  },
+  {
+   "id": "regular:316",
+   "translation": "CLARY: Totes les torres de salt s'estan construint a <color=lightblue>Ash Twin</color>, així que els nuclis de forat negre aniran allà."
+  },
+  {
+   "id": "regular:317",
+   "translation": "POKE: Els nuclis de forat blanc són per als receptors de salt. Cadascun dels sis receptors s'està construint en un lloc diferent, així que aquestes entregues seran un mal de coll més gros."
+  },
+  {
+   "id": "regular:318",
+   "translation": "ROOT: La meva gratitud! En aquest cas: Poke, Clary, marxo a fer l'entrega! Faré arribar els teus records a en Yarrow."
+  },
+  {
+   "id": "regular:319",
+   "translation": "CLARY: Poke, tornaré aviat a la <color=orange>forge</color>; atraparé en Root i l'ajudaré a entregar el primer nucli a <color=lightblue>Ash Twin</color>, només per assegurar-me que en Yarrow el rep."
+  },
+  {
+   "id": "regular:320",
+   "translation": "POKE: És clar que sí."
+  },
+  {
+   "id": "regular:321",
+   "translation": "POKE: Els dissenys de les torres del <color=orange>High Energy Lab</color> a <color=lightblue>Ember Twin</color> revelen la ubicació de cada receptor. Pregunta-ho a en Yarrow; ell els coneix bé."
+  },
+  {
+   "id": "regular:322",
+   "translation": "AVÍS: Vés amb compte a prop de la zona d'embarcament mentre la <color=orange>Black Hole Forge</color> estigui en funcionament."
+  },
+  {
+   "id": "regular:323",
+   "translation": "POKE: A destacar: en Yarrow creu haver detectat una fallada en els dissenys de les torres de salt: en concret, que una de les torres de salt d'<color=lightblue>Ash Twin</color> mai no s'activarà, perquè el seu receptor de salt mai no s'alinearà al damunt."
+  },
+  {
+   "id": "regular:324",
+   "translation": "POKE: El teu interès romàntic creu que el punt d'alineació d'una torre de salt és el seu <i>receptor</i>? No sap que una torre de salt sempre s'alinea amb el centre del seu cos astral corresponent?"
+  },
+  {
+   "id": "regular:325",
+   "translation": "CLARY: No és una creença irraonable, tenint en compte que el receptor <i>sí</i> que ha d'estar situat al cos astral corresponent (o en òrbita propera al seu voltant)."
+  },
+  {
+   "id": "regular:326",
+   "translation": "CLARY: Em sembla recordar que aquesta va ser <i>la teva</i> primera comprensió de la tecnologia de salt."
+  },
+  {
+   "id": "regular:327",
+   "translation": "CLARY: No, en Yarrow entén la diferència. Probablement no s'adona que els <color=lightblue>Hourglass Twins</color> estan tan junts que funcionen com un sol cos astral, amb un punt d'alineació compartit entre tots dos."
+  },
+  {
+   "id": "regular:328",
+   "translation": "Sortida a la superfície."
+  },
+  {
+   "id": "regular:329",
+   "translation": "<color=orange>Black Hole Forge</color>\\\\n(nord 40m)"
+  },
+  {
+   "id": "regular:330",
+   "translation": "PYE: L'<color=orange>Ash Twin Project</color> serà una de les nostres empreses més grans (metafòricament <i>i</i> físicament). Per construir-lo, necessitem una manera de viatjar ràpidament entre <color=lightblue>Ash Twin</color> i cada lloc que conté materials crucials del projecte."
+  },
+  {
+   "id": "regular:331",
+   "translation": "ROOT: I si féssim servir torres de salt (com la que tenim a l'<color=orange>White Hole Station</color>) per connectar <color=lightblue>Ash Twin</color> directament amb cada lloc crític?"
+  },
+  {
+   "id": "regular:332",
+   "translation": "CLARY: La Poke, en Root i jo podem començar a treballar-hi immediatament a la <color=orange>Black Hole Forge</color> (això ens mantindrà ocupats!)."
+  },
+  {
+   "id": "regular:333",
+   "translation": "YARROW: A destacar: cada torre d'<color=lightblue>Ash Twin</color> farà un salt cap a un planeta diferent."
+  },
+  {
+   "id": "regular:334",
+   "translation": "PHLOX: Podem dissenyar cada torre perquè reflecteixi visualment la seva destinació de salt!"
+  },
+  {
+   "id": "regular:335",
+   "translation": "PHLOX: La <color=orange>Giant’s Deep tower</color>, per exemple, podria assemblar-se a un cicló. I podríem modelar la <color=orange>Timber Hearth tower</color> a partir d'una muntanya de guèisers!"
+  },
+  {
+   "id": "regular:336",
+   "translation": "YARROW: La meva gratitud a qui va assenyalar el meu llenguatge imprecís! Sí, el <color=lightblue>sol</color> no és un planeta. Crec que això ja s'ha aclarit prou (si us plau, deixeu de recordar-m'ho!)."
+  },
+  {
+   "id": "regular:337",
+   "translation": "Recuperant les dades de llançaments previs d'<color=lightblue>Ash Twin</color>."
+  },
+  {
+   "id": "regular:338",
+   "translation": "Nombre total de sondes llançades: <NbTimeloops>"
+  },
+  {
+   "id": "regular:339",
+   "translation": "Anomalia de l'espai profund que compleix tots els criteris coneguts de l'<color=lightblue>Eye of the universe</color>, trobada per la sonda <FirstLoop>."
+  },
+  {
+   "id": "regular:340",
+   "translation": "CLARY: Tinc bones notícies, Yarrow! El nucli de salt avançat està a punt per instal·lar-se a la cambra central d'<color=lightblue>Ash Twin</color>."
+  },
+  {
+   "id": "regular:341",
+   "translation": "YARROW: Estic intrigat, amor! Tothom qui treballa aquí en l'<color=orange>Ash Twin Project</color> està emocionat per veure'l (la Pye està fora de si d'alegria!)."
+  },
+  {
+   "id": "regular:342",
+   "translation": "POKE: No, no ho està!"
+  },
+  {
+   "id": "regular:343",
+   "translation": "YARROW: Tot va bé a la <color=orange>forge</color>?"
+  },
+  {
+   "id": "regular:344",
+   "translation": "CLARY: No et preocupis, amor; la Poke només està nerviosa. El nucli és extraordinari, i el seu disseny és meravellosament enginyós."
+  },
+  {
+   "id": "regular:345",
+   "translation": "POKE: La durabilitat del nucli encara es podria millorar! Necessito més temps!"
+  },
+  {
+   "id": "regular:346",
+   "translation": "CLARY: Ignora-la, Yarrow. El nucli està acabat. I si la meva germana et diu el contrari, llavors <i>ella</i> també estarà acabada."
+  },
+  {
+   "id": "regular:347",
+   "translation": "YARROW: La meva gratitud pel darrer enviament, Oeno! Aquest mineral hauria de ser l'últim que necessitarem per a l'<color=orange>Ash Twin Project</color>."
+  },
+  {
+   "id": "regular:348",
+   "translation": "YARROW: Un cop hàgim acabat la closca que segella la cambra central, comprovarem que ja no hi hagi cap entrada física. La Ramie i jo revisarem l'interior i després l'exterior a la recerca d'esquerdes (la nostra comprovació de seguretat final)."
+  },
+  {
+   "id": "regular:349",
+   "translation": "OENO: Són notícies emocionants! Puc oferir un parell d'ulls extra per a aquesta comprovació final (concretament, els meus)? Si la meva feina aquí està acabada, estaré encantat d'ajudar."
+  },
+  {
+   "id": "regular:350",
+   "translation": "YARROW: T'ho agrairíem molt! Com més ulls, millor, ja que la més petita esquerda o obertura a la closca que protegeix l'<color=orange>Ash Twin Project</color> podria portar al desastre."
+  },
+  {
+   "id": "regular:351",
+   "translation": "OENO: Encara em sorprèn la quantitat de mineral que requereix l'<color=orange>Ash Twin Project</color>!"
+  },
+  {
+   "id": "regular:352",
+   "translation": "CYCAD: No és aquest el mineral per a les torres restants que s'estan construint a <color=lightblue>Ash Twin</color>? Les torres acabades que he vist són força grans!"
+  },
+  {
+   "id": "regular:353",
+   "translation": "OENO: No, el material per a aquelles torres s'extreu tot d'<color=lightblue>Ash Twin</color>. El mineral que extraiem aquí es farà servir per fabricar una closca protectora immensament gruixuda que segellarà físicament la cambra dins del nucli d'<color=lightblue>Ash Twin</color>."
+  },
+  {
+   "id": "regular:354",
+   "translation": "COLEUS: Em sento alleujat per la decisió del nostre clan d'utilitzar el mineral de <color=lightblue>Timber Hearth</color> només per construir la closca. Si, amb el temps, la vida d'aquest planeta evolucionés fins a desenvolupar una metal-lúrgia avançada, estic convençut que no haurem destruït la seva capacitat de crear!"
+  },
+  {
+   "id": "regular:355",
+   "translation": "CYCAD: Si segellen totes les entrades, espero que ho hagin planificat con-<i>nucli</i>-entment!"
+  },
+  {
+   "id": "regular:356",
+   "translation": "OENO: Creia que havíes prohibit al teu aprenent fer jocs de paraules, Coleus."
+  },
+  {
+   "id": "regular:357",
+   "translation": "COLEUS: I d'una altra manera, com milloraria?"
+  },
+  {
+   "id": "regular:358",
+   "translation": "Estat de la xarxa de salts d'<color=lightblue>Ash Twin</color>: totes les torres en línia."
+  },
+  {
+   "id": "regular:359",
+   "translation": "Estat de la xarxa de salts d'<color=lightblue>Ash Twin</color>: la <color=orange>Sun tower</color> fora de línia des de fa <MinutesSinceRedGiant> minuts i <SecondsSinceRedGiant> segons.\\\\nTotes les altres torres en línia."
+  },
+  {
+   "id": "regular:360",
+   "translation": "La Sun tower fora de línia des de fa <MinutesSinceRedGiant> minuts i <SecondsSinceRedGiant> segons.\\\\nTotes les altres torres en línia."
+  },
+  {
+   "id": "regular:361",
+   "translation": "POKE: Benvingut a l'<color=orange>White Hole Station</color>! Si has caigut pel forat negre per accident (no et preocupis, no ets el primer), aquesta torre de salt et pot tornar a <color=lightblue>Brittle Hollow</color>."
+  },
+  {
+   "id": "regular:362",
+   "translation": "POKE: Cada torre de salt està sintonitzada amb un cos astral específic. El salt d'una torre només es pot fer servir durant la breu finestra en què la torre està alineada amb el seu cos astral corresponent (en aquest cas, <color=lightblue>Brittle Hollow</color>)."
+  },
+  {
+   "id": "regular:363",
+   "translation": "Has d'estar dret sobre la plataforma de salt del terra durant aquesta alineació per ser transportat."
+  },
+  {
+   "id": "regular:364",
+   "translation": "POKE: Si mires amunt mentre l'estació gira, veuràs que l'alineació es produeix quan el cos astral és directament al damunt."
+  },
+  {
+   "id": "regular:365",
+   "translation": "Gabbro"
+  },
+  {
+   "id": "regular:366",
+   "translation": "Bé, ets tu. M'alegro de veure que has arribat d'una peça. El primer llançament en solitari és una passada, oi?"
+  },
+  {
+   "id": "regular:367",
+   "translation": "Escolta, no t'espantis ni res, però darrerament no paro de, diguem-ne, morir una vegada rere l'altra. No ho sé, és força estrany."
+  },
+  {
+   "id": "regular:368",
+   "translation": "I tu? Has mort darrerament, o soc només jo?"
+  },
+  {
+   "id": "regular:369",
+   "translation": "No, jo també. Estem dins d'un bucle temporal."
+  },
+  {
+   "id": "regular:370",
+   "translation": "És cert que el temps <i>ha</i> estat comportant-se d'una manera inusual darrerament. Sí, un bucle temporal té sentit. Genial."
+  },
+  {
+   "id": "regular:371",
+   "translation": "T'ho estàs prenent força bé."
+  },
+  {
+   "id": "regular:372",
+   "translation": "Què creies que era?"
+  },
+  {
+   "id": "regular:373",
+   "translation": "Heh, igualment."
+  },
+  {
+   "id": "regular:374",
+   "translation": "Personalment, m'agraden les experiències noves, i mai abans havia estat en un bucle temporal. Vull dir, no <i>crec</i> que hagi estat en un bucle temporal abans d'aquest."
+  },
+  {
+   "id": "regular:375",
+   "translation": "Suposava que seria una mena de cosa inquieta del temps, però no pensava gaire en què li està passant a la forma del temps, saps? Però un bucle té sentit aquí. De moment, diguem-ne «bucle»."
+  },
+  {
+   "id": "regular:376",
+   "translation": "Sembla que tu i jo som els únics que ens adonem que el temps s'ha tornat estrany. Vaig provar de cridar per ràdio a en Hornfels i preguntar-li si també havia mort, però es va pensar que parlava en sentit metafòric."
+  },
+  {
+   "id": "regular:377",
+   "translation": "Encara que expliqui a en Hornfels el bucle temporal, mai no se'n recorda al següent. No s'adona que res és diferent."
+  },
+  {
+   "id": "regular:378",
+   "translation": "I aquí tens una altra cosa estranya: cada vegada que moro, tots els meus records d'aquell bucle se'm reprodueixen. Estic força segur que té relació amb una gran estàtua de pedra Nomai que vaig trobar en una de les altres illes."
+  },
+  {
+   "id": "regular:379",
+   "translation": "L'estava mirant, i l'estàtua va obrir els ulls i va començar a brillar. Va reproduir els meus records com si els hagués vist amb els meus propis ulls, igual que el que passa cada vegada que moro."
+  },
+  {
+   "id": "regular:380",
+   "translation": "A mi em va passar això amb l'estàtua del museu."
+  },
+  {
+   "id": "regular:381",
+   "translation": "Tu també, eh? Doncs les estàtues Nomai deuen tenir alguna cosa a veure amb el fet que siguem els únics conscients del bucle temporal. Així que... sense estàtua brillant, sense consciència del bucle temporal?"
+  },
+  {
+   "id": "regular:382",
+   "translation": "Crec que aquesta serà la meva teoria principal, però si descobreixes res de nou sobre les estàtues o el bucle temporal, fes-m'ho saber, d'acord? Seré aquí."
+  },
+  {
+   "id": "regular:383",
+   "translation": "En fi, això és el que hi ha de nou amb mi. Però ei, aquest és el teu primer viatge en solitari! ...Més o menys! Parlem de tu, saps?"
+  },
+  {
+   "id": "regular:384",
+   "translation": "Has mirat mai un cicló durant tant de temps que t'ha començat a hipnotitzar? T'ho dic de debò, et posen en trànsit si els mires fixament prou estona."
+  },
+  {
+   "id": "regular:385",
+   "translation": "Com et tracta l'espai?"
+  },
+  {
+   "id": "regular:386",
+   "translation": "He trobat una cosa!"
+  },
+  {
+   "id": "regular:387",
+   "translation": "Què hi fas, aquí fora?"
+  },
+  {
+   "id": "regular:388",
+   "translation": "On hauria d'explorar a Giant's Deep?"
+  },
+  {
+   "id": "regular:389",
+   "translation": "Què passa amb aquest planeta?"
+  },
+  {
+   "id": "regular:390",
+   "translation": "On és la teva nau?"
+  },
+  {
+   "id": "regular:391",
+   "translation": "He trobat la teva nau!"
+  },
+  {
+   "id": "regular:392",
+   "translation": "He tornat a veure la teva nau."
+  },
+  {
+   "id": "regular:393",
+   "translation": "Fins després."
+  },
+  {
+   "id": "regular:394",
+   "translation": "Bé, què hi fem cap de nosaltres aquí, de debò?"
+  },
+  {
+   "id": "regular:395",
+   "translation": "...No, és broma. Soc aquí fora explorant el nostre sistema solar, igual que tu."
+  },
+  {
+   "id": "regular:396",
+   "translation": "Però et diré una cosa: l'espai exterior de veritat et dona espai per pensar. Aquí fora tot és tranquil i pacífic."
+  },
+  {
+   "id": "regular:397",
+   "translation": "Vull dir, normalment és tranquil i pacífic. De vegades passa un cicló i aixeca el meu petit paradís insular ben bé fora de l'aigua. Llavors: menys pacífic."
+  },
+  {
+   "id": "regular:398",
+   "translation": "Aquí tens una cosa que et pot agradar: a l'inici de cada bucle temporal, no paro de veure un flaix brillant al cel. Alguna cosa deu passar allà dalt, en òrbita al voltant del planeta."
+  },
+  {
+   "id": "regular:399",
+   "translation": "Què més, què més... Has estat a Statue Island? Així és com l'he estat anomenant, tenint en compte que és l'<i>illa</i> on vaig trobar l'<i>estàtua</i> Nomai brillant.<Pause> ...Ho has pillat?"
+  },
+  {
+   "id": "regular:400",
+   "translation": "Per cert, era a la platja de Statue Island quan va passar tota la història del brilli-brilli. És una bona platja per a aquesta mena de coses. Li dono un sòlid 7 sobre 10 a l'Escala de Relaxació d'en Gabbro."
+  },
+  {
+   "id": "regular:401",
+   "translation": "Si et ve de gust visitar Statue Island, és la que té dues illes connectades per un arc de roca natural. Bé... més aviat connectades, en tot cas. Ja ho veuràs."
+  },
+  {
+   "id": "regular:402",
+   "translation": "Haha, oi que sí?"
+  },
+  {
+   "id": "regular:403",
+   "translation": "...Ah, vols dir que t'expliqui més coses? Entesos. Bé, Giant's Deep és enorme i sobretot aigua. Cap sorpresa."
+  },
+  {
+   "id": "regular:404",
+   "translation": "Hi ha un corrent fort una mica sota la superfície que impedeix que res s'enfonsi més avall. De debò, vaig provar tot el que se'm va acudir per superar aquell corrent, i cap de les dues idees va funcionar."
+  },
+  {
+   "id": "regular:405",
+   "translation": "Pel que fa a les masses de terra, he comptat quatre illes, incloent-hi aquesta. També hi ha la de l'estàtua Nomai que vaig veure a la platja."
+  },
+  {
+   "id": "regular:406",
+   "translation": "Has vist els ciclons? Sí, és difícil no veure'ls. Aixequen tot el que troben al seu pas, illes incloses. Un consell: si t'atrapen, intenta caure a l'aigua. És menys probable que et mati."
+  },
+  {
+   "id": "regular:407",
+   "translation": "Bona pregunta."
+  },
+  {
+   "id": "regular:408",
+   "translation": "Segur que és en algun lloc <i>d'</i>aquest planeta. Vull dir, tret que un cicló passés i el llancés a l'espai, suposo. Heh, això seria una bogeria."
+  },
+  {
+   "id": "regular:409",
+   "translation": "Espero que no estigui sol."
+  },
+  {
+   "id": "regular:410",
+   "translation": "Una pregunta excel-lent. Últimament no l'he vist per aquí."
+  },
+  {
+   "id": "regular:411",
+   "translation": "Espero que no estigui sol."
+  },
+  {
+   "id": "regular:412",
+   "translation": "Ah, genial. Així que està surant a l'oceà, eh?"
+  },
+  {
+   "id": "regular:413",
+   "translation": "Semblava que s'ho estigués passant bé?"
+  },
+  {
+   "id": "regular:414",
+   "translation": "Espero que s'ho estigui passant bé! M'has saludat?"
+  },
+  {
+   "id": "regular:415",
+   "translation": "Genial, genial. Vés amb compte allà fora."
+  },
+  {
+   "id": "regular:416",
+   "translation": "Bé, bé. Què em portes?"
+  },
+  {
+   "id": "regular:417",
+   "translation": "He arribat a l'interior de Statue Island."
+  },
+  {
+   "id": "regular:418",
+   "translation": "He trobat la font del bucle temporal."
+  },
+  {
+   "id": "regular:419",
+   "translation": "He trobat màscares Nomai dins de l'Ash Twin Project."
+  },
+  {
+   "id": "regular:420",
+   "translation": "He trobat què va passar amb l'Orbital Probe Cannon."
+  },
+  {
+   "id": "regular:421",
+   "translation": "He trobat el teu poema quàntic."
+  },
+  {
+   "id": "regular:422",
+   "translation": "He trobat una foto teva dins de la vella torre de ràdio."
+  },
+  {
+   "id": "regular:423",
+   "translation": "De fet, deixa-ho."
+  },
+  {
+   "id": "regular:424",
+   "translation": "Així que els Nomai van crear aquelles estàtues de caps per enregistrar records, eh? ...Sí, m'ho puc imaginar, els Nomai fent això. No sé per a què, però sembla cosa seva."
+  },
+  {
+   "id": "regular:425",
+   "translation": "Creus que les estàtues estan enregistrant els nostres records, doncs? Perquè recordo que la de la platja em va mirar d'una manera estranya. Deu ser la meva amiga dels records!"
+  },
+  {
+   "id": "regular:426",
+   "translation": "Sí, sí, la cova de dins de Statue Island és on es van fabricar les estàtues enregistradores de records, ho recordo."
+  },
+  {
+   "id": "regular:427",
+   "translation": "Així que la teva estàtua dels records és la del museu, al cràter, i la meva és la que vaig trobar a la platja. M'agrada tenir la meva pròpia amiga dels records."
+  },
+  {
+   "id": "regular:428",
+   "translation": "Si se t'acut alguna intuïció sobre per què els Nomai volien enregistrar records, explica-me-la! Ja saps on seré."
+  },
+  {
+   "id": "regular:429",
+   "translation": "Espera, ostres, de debò? Els Nomai van excavar Ash Twin i van construir-hi un dispositiu de bucle temporal? ...Això és <i>salvatge</i>."
+  },
+  {
+   "id": "regular:430",
+   "translation": "Ara ja sabem què causa el bucle. I... si el causa un dispositiu, això vol dir que algú el va haver d'engegar, oi? Hmm..."
+  },
+  {
+   "id": "regular:431",
+   "translation": "Ei, què creus que passaria si apaguessis el bucle temporal? Vull dir, hi ha una part de mi que pensa que potser no hauries de fer-ho, amb el sol explotant i tot."
+  },
+  {
+   "id": "regular:432",
+   "translation": "Però, d'altra banda, qui vol passar l'eternitat explotant amb el sol?"
+  },
+  {
+   "id": "regular:433",
+   "translation": "...No ho sé, no en soc cap expert dels bucles temporals. Jo em quedaré assegut aquí reflexionant sobre les complexitats del temps i l'espai. Potser també faré una becaina, si em ve de gust."
+  },
+  {
+   "id": "regular:434",
+   "translation": "Encara tinc el cap ple d'escenaris sobre què passaria si apaguessis el bucle temporal. Però probablement me n'adonaré si decideixes tocar-lo, oi? Sembla una cosa que notaria."
+  },
+  {
+   "id": "regular:435",
+   "translation": "Tot això és força salvatge."
+  },
+  {
+   "id": "regular:436",
+   "translation": "Vols dir que les estàtues es van fer per poder enviar records enrere en el temps? Suposo que té sentit, tenint en compte que tots dos tenim els records de cada bucle que hem viscut."
+  },
+  {
+   "id": "regular:437",
+   "translation": "Espera, llavors només són els nostres records que ens envien enrere en el temps, oi? Llavors... estem experimentant de debò múltiples bucles temporals, o no?"
+  },
+  {
+   "id": "regular:438",
+   "translation": "Això és força profund... Com que potser les nostres consciències han passat per tots aquests bucles, però potser els nostres cossos no, perquè tècnicament els bucles mai no van passar."
+  },
+  {
+   "id": "regular:439",
+   "translation": "És a dir, rebem records de coses que mai no ens passaran. Genial, oi?"
+  },
+  {
+   "id": "regular:440",
+   "translation": "Sí, abans m'has dit que la finalitat de les estàtues és enviar records enrere en el temps. La qual cosa suposo que té sentit, tenint en compte que tots dos tenim els records de cada bucle que hem viscut."
+  },
+  {
+   "id": "regular:441",
+   "translation": "Hi he pensat una mica més, i crec que això significa que les nostres ments han passat per tots aquests bucles, però nosaltres no els hem viscut realment."
+  },
+  {
+   "id": "regular:442",
+   "translation": "És a dir, rebem records de coses que tècnicament mai no ens passaran. Genial, oi?"
+  },
+  {
+   "id": "regular:443",
+   "translation": "Ostres, és el canó que es desfà a l'inici de cada bucle temporal? De debò?"
+  },
+  {
+   "id": "regular:444",
+   "translation": "Has esbrinat per què?"
+  },
+  {
+   "id": "regular:445",
+   "translation": "Massa potència."
+  },
+  {
+   "id": "regular:446",
+   "translation": "Entusiasme excessiu."
+  },
+  {
+   "id": "regular:447",
+   "translation": "...Fa una mica de por com sona a una cosa que farien en Slate o en Feldspar. Em sorprèn força que els Nomai construïssin una cosa que de debò es va espatllar!"
+  },
+  {
+   "id": "regular:448",
+   "translation": "Pensant-hi bé, però, «espatllat» potser no és la paraula correcta. Perquè sembla que l'Orbital Probe Cannon encara dispara amb èxit a l'inici de cada bucle temporal."
+  },
+  {
+   "id": "regular:449",
+   "translation": "Així que el canó es desfà just després de disparar, eh. Això explica què veig caure del cel a cada bucle."
+  },
+  {
+   "id": "regular:450",
+   "translation": "Encara em sorprèn que els Nomai construïssin una cosa que no es manté sencera, saps? I que ells són artesans genials i tot."
+  },
+  {
+   "id": "regular:451",
+   "translation": "D'altra banda, potser hauríem d'admirar que fessin una cosa que pogués durar fins als nostres dies. I sembla que el canó encara dispara amb èxit a l'inici de cada bucle temporal."
+  },
+  {
+   "id": "regular:452",
+   "translation": "Sí, el del bosc, recordo haver-lo escrit. Força divertit, oi? Surt a unes bones 24 versions del poema."
+  },
+  {
+   "id": "regular:453",
+   "translation": "Quan acabi d'explorar, vull fer més art quàntic. Potser una mena d'escultura de criatura que, així, apareix i t'espanta de mort."
+  },
+  {
+   "id": "regular:454",
+   "translation": "Sí, ja m'ho havies dit abans. Semblava enfeinat a la foto? Espero que semblés enfeinat."
+  },
+  {
+   "id": "regular:455",
+   "translation": "Bonic. Semblava enfeinat a la foto? Espero que semblés enfeinat."
+  },
+  {
+   "id": "regular:456",
+   "translation": "Deu ser de quan en Hornfels em va enviar a comprovar el satèl-lit de l'espai profund. Es pensaven que l'Ol' Spacey potser no funcionava bé, però no vaig trobar-hi ni una sola cosa malament."
+  },
+  {
+   "id": "regular:457",
+   "translation": "Que probablement és com va aconseguir una foto de la meva bonica cara amb casc, pensant-hi bé."
+  },
+  {
+   "id": "regular:458",
+   "translation": "Sempre he pensat que és força bonic que la millor manera de trobar l'Ol' Spacey sigui fer servir un mapa generat pel mateix satèl-lit, oi? Com si ens convidés a visitar-lo. Bon tros de satèl-lit de l'espai profund, sempre assegurant-se que sabem on anem."
+  },
+  {
+   "id": "regular:459",
+   "translation": "Per què es pensava en Hornfels que estava espatllat?"
+  },
+  {
+   "id": "regular:460",
+   "translation": "Mmm. «Ol' Spacey»?"
+  },
+  {
+   "id": "regular:461",
+   "translation": "Tinc un mapa?!"
+  },
+  {
+   "id": "regular:462",
+   "translation": "No ho sé. Probablement en Hornfels em va dir per què, però en Hornfels em diu moltes coses, i de vegades desconnecto. O fingeixo que hi ha interferències de senyal i que no el sento."
+  },
+  {
+   "id": "regular:463",
+   "translation": "La millor conjectura és que el satèl-lit de l'espai profund devia enviar unes imatges estranyes a Timber Hearth, però... què es considera «estrany» per a un satèl-lit, saps?"
+  },
+  {
+   "id": "regular:464",
+   "translation": "En fi, si mai vols visitar l'Ol' Spacey, la manera més ràpida és pujar a la teva nau i fer servir el mapa del sistema solar per fixar-te en el satèl-lit, igual que faries amb qualsevol cos astral."
+  },
+  {
+   "id": "regular:465",
+   "translation": "Vull dir, el satèl-lit no és <i>super</i> vell, però tampoc no és nou de trinca. «Ol'» és més aviat un mot afectuós. ...Hi estàs sent molt literal."
+  },
+  {
+   "id": "regular:466",
+   "translation": "A l'Ol' Spacey li agraden les visites, saps! La manera més ràpida de trobar-lo és pujar a la teva nau i fer servir el mapa del sistema solar per fixar-te en el nostre fidel amic satèl-lit, igual que faries amb qualsevol cos astral."
+  },
+  {
+   "id": "regular:467",
+   "translation": "Sí, eh, el que ve de sèrie amb tots els nostres vestits espacials? El que portes sempre a sobre i s'obre prement un botó? ...Aquest mapa?"
+  },
+  {
+   "id": "regular:468",
+   "translation": "No t'ha tocat cap al cap una pedra o un meteorit o alguna cosa pel camí, oi? No hi ha cap vergonya. A mi em passa constantment!"
+  },
+  {
+   "id": "regular:469",
+   "translation": "Per si t'han tocat especialment fort, no oblidis que pots pujar a la teva nau i fer servir el mapa del sistema solar per fixar-te en qualsevol cos astral. També és la manera més fàcil de visitar l'Ol' Spacey."
+  },
+  {
+   "id": "regular:470",
+   "translation": "No passa res. Tot i així, avisa'm quan trobis una cosa interessant. Ja saps on trobar-me."
+  },
+  {
+   "id": "regular:471",
+   "translation": "Esperava que tornessis: està passant una cosa <i>realment</i> estranya."
+  },
+  {
+   "id": "regular:472",
+   "translation": "Creus que estem dins d'un bucle temporal?"
+  },
+  {
+   "id": "regular:473",
+   "translation": "Segur que estem dins d'un bucle temporal."
+  },
+  {
+   "id": "regular:474",
+   "translation": "Sí, un bucle temporal és el que té més sentit, oi? O almenys, és una mena de cosa inquieta del temps. És difícil dir exactament què li està passant a la forma del temps, però de moment diguem-ne «bucle»."
+  },
+  {
+   "id": "regular:475",
+   "translation": "Ah. Sí, té sentit. Genial."
+  },
+  {
+   "id": "regular:476",
+   "translation": "T'ho estàs prenent força bé."
+  },
+  {
+   "id": "regular:477",
+   "translation": "Què creies que era?"
+  },
+  {
+   "id": "regular:478",
+   "translation": "Heh, igualment. Personalment, m'agraden les experiències noves, i mai abans havia estat en un bucle temporal."
+  },
+  {
+   "id": "regular:479",
+   "translation": "Bé. No <i>crec</i> que hagi estat en un bucle temporal abans d'aquest, però tampoc no és com si ho pogués saber del cert."
+  },
+  {
+   "id": "regular:480",
+   "translation": "Suposava que seria una mena de cosa inquieta del temps, però no pensava gaire en què li està passant a la forma del temps, saps? Però un bucle té sentit aquí. De moment, diguem-ne «bucle»."
+  },
+  {
+   "id": "regular:481",
+   "translation": "Així que sembla que tu i jo som els únics que sabem que estem dins d'un bucle temporal. I encara que els ho expliquis, ningú no se'n recorda al bucle següent. Què és això?"
+  },
+  {
+   "id": "regular:482",
+   "translation": "Potser és perquè tots dos vam fer un contacte visual seriosament intens amb una estàtua Nomai?"
+  },
+  {
+   "id": "regular:483",
+   "translation": "Veig com se'm reprodueixen els records cada vegada que moro, igual que em va passar quan l'estàtua Nomai de la platja va obrir els ulls i em va mirar. Així que potser... sense estàtua brillant, sense consciència del bucle temporal?"
+  },
+  {
+   "id": "regular:484",
+   "translation": "Crec que aquesta serà la meva teoria principal, però si descobreixes res de nou sobre les estàtues o el bucle temporal, fes-m'ho saber, d'acord? Seré aquí."
+  },
+  {
+   "id": "regular:485",
+   "translation": "Ei, ha tornat el meu company temporal!"
+  },
+  {
+   "id": "regular:486",
+   "translation": "I què hi ha de nou?"
+  },
+  {
+   "id": "regular:487",
+   "translation": "Bé, què hi fem cap de nosaltres aquí, de debò?"
+  },
+  {
+   "id": "regular:488",
+   "translation": "...No, és broma. Soc aquí fora explorant el nostre sistema solar, igual que tu."
+  },
+  {
+   "id": "regular:489",
+   "translation": "Però et diré una cosa: l'espai exterior de veritat et dona espai per pensar. Aquí fora tot és tranquil i pacífic."
+  },
+  {
+   "id": "regular:490",
+   "translation": "Vull dir, normalment és tranquil i pacífic. De vegades passa un cicló i aixeca el meu petit paradís insular ben bé fora de l'aigua. Llavors: menys pacífic."
+  },
+  {
+   "id": "regular:491",
+   "translation": "Aquí tens una cosa que et pot agradar: a l'inici de cada bucle temporal, no paro de veure un flaix brillant al cel. Alguna cosa deu passar allà dalt, en òrbita al voltant del planeta."
+  },
+  {
+   "id": "regular:492",
+   "translation": "Què més, què més... Has estat a Statue Island? Així és com l'he estat anomenant, tenint en compte que és l'<i>illa</i> on vaig trobar l'<i>estàtua</i> Nomai brillant.<Pause> ...Ho has pillat?"
+  },
+  {
+   "id": "regular:493",
+   "translation": "Per cert, era a la platja de Statue Island quan va passar tota la història del brilli-brilli. És una bona platja per a aquesta mena de coses. Li dono un sòlid 7 sobre 10 a l'Escala de Relaxació d'en Gabbro."
+  },
+  {
+   "id": "regular:494",
+   "translation": "Si et ve de gust visitar Statue Island, és la que té dues illes connectades per un arc de roca natural. Bé... més aviat connectades, en tot cas. Ja ho veuràs."
+  },
+  {
+   "id": "regular:495",
+   "translation": "Haha, oi que sí?"
+  },
+  {
+   "id": "regular:496",
+   "translation": "...Ah, vols dir que t'expliqui més coses? Entesos. Bé, Giant's Deep és enorme i sobretot aigua. Cap sorpresa."
+  },
+  {
+   "id": "regular:497",
+   "translation": "Hi ha un corrent fort una mica sota la superfície que impedeix que res s'enfonsi més avall. De debò, vaig provar tot el que se'm va acudir per superar aquell corrent, i cap de les dues idees va funcionar."
+  },
+  {
+   "id": "regular:498",
+   "translation": "Pel que fa a les masses de terra, he comptat quatre illes, incloent-hi aquesta. També hi ha la de l'estàtua Nomai que vaig veure a la platja."
+  },
+  {
+   "id": "regular:499",
+   "translation": "Has vist els ciclons? Sí, és difícil no veure'ls. Aixequen tot el que troben al seu pas, illes incloses. Un consell: si t'atrapen, intenta caure a l'aigua. És menys probable que et mati."
+  },
+  {
+   "id": "regular:500",
+   "translation": "Així que els Nomai van crear aquelles estàtues de caps per enregistrar records, eh? ...Sí, m'ho puc imaginar, els Nomai fent això. No sé per a què, però sembla cosa seva."
+  },
+  {
+   "id": "regular:501",
+   "translation": "Creus que les estàtues estan enregistrant els nostres records, doncs? Perquè recordo que la de la platja em va mirar d'una manera estranya. Deu ser la meva amiga dels records!"
+  },
+  {
+   "id": "regular:502",
+   "translation": "Espera, ostres, de debò? Els Nomai van excavar Ash Twin i van construir-hi un dispositiu de bucle temporal? ...Això és <i>salvatge</i>."
+  },
+  {
+   "id": "regular:503",
+   "translation": "Ara ja sabem què causa el bucle. I... si el causa un dispositiu, això vol dir que algú el va haver d'engegar, oi? Hmm..."
+  },
+  {
+   "id": "regular:504",
+   "translation": "Ei, què creus que passaria si apaguessis el bucle temporal? Vull dir, hi ha una part de mi que pensa que potser no hauries de fer-ho, amb el sol explotant i tot."
+  },
+  {
+   "id": "regular:505",
+   "translation": "Però, d'altra banda, qui vol passar l'eternitat explotant amb el sol?"
+  },
+  {
+   "id": "regular:506",
+   "translation": "...No ho sé, no en soc cap expert dels bucles temporals. Jo em quedaré assegut aquí reflexionant sobre les complexitats del temps i l'espai. Potser també faré una becaina, si em ve de gust."
+  },
+  {
+   "id": "regular:507",
+   "translation": "Vols dir que les estàtues es van fer per poder enviar records enrere en el temps? Suposo que té sentit, tenint en compte que tots dos tenim els records de cada bucle que hem viscut."
+  },
+  {
+   "id": "regular:508",
+   "translation": "Espera, llavors només són els nostres records que ens envien enrere en el temps, oi? Llavors... estem experimentant de debò múltiples bucles temporals, o no?"
+  },
+  {
+   "id": "regular:509",
+   "translation": "Això és força profund... Com que potser les nostres consciències han passat per tots aquests bucles, però potser els nostres cossos no, perquè tècnicament els bucles mai no van passar."
+  },
+  {
+   "id": "regular:510",
+   "translation": "És a dir, rebem records de coses que mai no ens passaran. Genial, oi?"
+  },
+  {
+   "id": "regular:511",
+   "translation": "Ostres, és el canó que es desfà a l'inici de cada bucle temporal? De debò?"
+  },
+  {
+   "id": "regular:512",
+   "translation": "Has esbrinat per què?"
+  },
+  {
+   "id": "regular:513",
+   "translation": "Massa potència."
+  },
+  {
+   "id": "regular:514",
+   "translation": "Entusiasme excessiu."
+  },
+  {
+   "id": "regular:515",
+   "translation": "...Fa una mica de por com sona a una cosa que farien en Slate o en Feldspar. Em sorprèn força que els Nomai construïssin una cosa que de debò es va espatllar!"
+  },
+  {
+   "id": "regular:516",
+   "translation": "Pensant-hi bé, però, «espatllat» potser no és la paraula correcta. Perquè sembla que l'Orbital Probe Cannon encara dispara amb èxit a l'inici de cada bucle temporal."
+  },
+  {
+   "id": "regular:517",
+   "translation": "Així que el canó es desfà just després de disparar, eh. Això explica què veig caure del cel a cada bucle."
+  },
+  {
+   "id": "regular:518",
+   "translation": "Encara em sorprèn que els Nomai construïssin una cosa que no es manté sencera, saps? I que ells són artesans genials i tot."
+  },
+  {
+   "id": "regular:519",
+   "translation": "D'altra banda, potser hauríem d'admirar que fessin una cosa que pogués durar fins als nostres dies. I sembla que el canó encara dispara amb èxit a l'inici de cada bucle temporal."
+  },
+  {
+   "id": "regular:520",
+   "translation": "Sí, el del bosc, recordo haver-lo escrit. Força divertit, oi? Surt a unes bones 24 versions del poema."
+  },
+  {
+   "id": "regular:521",
+   "translation": "Quan acabi d'explorar, vull fer més art quàntic. Potser una mena d'escultura de criatura que, així, apareix i t'espanta de mort."
+  },
+  {
+   "id": "regular:522",
+   "translation": "Ei, company temporal! Quin temps més bo que fa, oi? <Pause />...Espera. He fet servir ja aquesta, abans?"
+  },
+  {
+   "id": "regular:523",
+   "translation": "Mira qui hi ha, el meu company temporal! Com et tracta l'espai en aquest bucle?"
+  },
+  {
+   "id": "regular:524",
+   "translation": "Hola, company temporal. Menys mal que no m'avorreixo mai de la pluja, oi?"
+  },
+  {
+   "id": "regular:525",
+   "translation": "Saps, m'agradaria haver construït una hamaca aquí abans que acabéssim en aquest bucle temporal."
+  },
+  {
+   "id": "regular:526",
+   "translation": "Fa uns quants bucles, un cicló va passar i va llançar la meva illa a l'espai. Morir així va ser força desagradable."
+  },
+  {
+   "id": "regular:527",
+   "translation": "Hola de nou. ...De nou."
+  },
+  {
+   "id": "regular:528",
+   "translation": "Què passa?"
+  },
+  {
+   "id": "regular:529",
+   "translation": "Com fas per mantenir-te tan calmat davant d'una mort imminent i repetida?"
+  },
+  {
+   "id": "regular:530",
+   "translation": "Respiracions profundes... no, de debò, medite."
+  },
+  {
+   "id": "regular:531",
+   "translation": "Vols que t'ensenyi? Serà el bucle següent abans que te n'adonis."
+  },
+  {
+   "id": "regular:532",
+   "translation": "És clar, per què no."
+  },
+  {
+   "id": "regular:533",
+   "translation": "No, estic bé."
+  },
+  {
+   "id": "regular:534",
+   "translation": "D'acord, tanca els ulls..."
+  },
+  {
+   "id": "regular:535",
+   "translation": "D'acord, avisa'm si canvies d'idea. El temps vola quan estàs en un trànsit profund i meditatiu."
+  },
+  {
+   "id": "regular:536",
+   "translation": "Bé, què hi fem cap de nosaltres aquí, de debò?"
+  },
+  {
+   "id": "regular:537",
+   "translation": "...No, és broma. Soc aquí fora explorant el nostre sistema solar, igual que tu."
+  },
+  {
+   "id": "regular:538",
+   "translation": "Però et diré una cosa: l'espai exterior de veritat et dona espai per pensar. Aquí fora tot és tranquil i pacífic."
+  },
+  {
+   "id": "regular:539",
+   "translation": "Vull dir, normalment és tranquil i pacífic. De vegades passa un cicló i aixeca el meu petit paradís insular ben bé fora de l'aigua. Llavors: menys pacífic."
+  },
+  {
+   "id": "regular:540",
+   "translation": "Aquí tens una cosa que et pot agradar: a l'inici de cada bucle temporal, no paro de veure un flaix brillant al cel. Alguna cosa deu passar allà dalt, en òrbita al voltant del planeta."
+  },
+  {
+   "id": "regular:541",
+   "translation": "Què més, què més... Has estat a Statue Island? Així és com l'he estat anomenant, tenint en compte que és l'<i>illa</i> on vaig trobar l'<i>estàtua</i> Nomai brillant.<Pause> ...Ho has pillat?"
+  },
+  {
+   "id": "regular:542",
+   "translation": "Per cert, era a la platja de Statue Island quan va passar tota la història del brilli-brilli. És una bona platja per a aquesta mena de coses. Li dono un sòlid 7 sobre 10 a l'Escala de Relaxació d'en Gabbro."
+  },
+  {
+   "id": "regular:543",
+   "translation": "Si et ve de gust visitar Statue Island, és la que té dues illes connectades per un arc de roca natural. Bé... més aviat connectades, en tot cas. Ja ho veuràs."
+  },
+  {
+   "id": "regular:544",
+   "translation": "Haha, oi que sí?"
+  },
+  {
+   "id": "regular:545",
+   "translation": "...Ah, vols dir que t'expliqui més coses? Entesos. Bé, Giant's Deep és enorme i sobretot aigua. Cap sorpresa."
+  },
+  {
+   "id": "regular:546",
+   "translation": "Hi ha un corrent fort una mica sota la superfície que impedeix que res s'enfonsi més avall. De debò, vaig provar tot el que se'm va acudir per superar aquell corrent, i cap de les dues idees va funcionar."
+  },
+  {
+   "id": "regular:547",
+   "translation": "Pel que fa a les masses de terra, he comptat quatre illes, incloent-hi aquesta. També hi ha la de l'estàtua Nomai que vaig veure a la platja."
+  },
+  {
+   "id": "regular:548",
+   "translation": "Has vist els ciclons? Sí, és difícil no veure'ls. Aixequen tot el que troben al seu pas, illes incloses. Un consell: si t'atrapen, intenta caure a l'aigua. És menys probable que et mati."
+  },
+  {
+   "id": "regular:549",
+   "translation": "Així que els Nomai van crear aquelles estàtues de caps per enregistrar records, eh? ...Sí, m'ho puc imaginar, els Nomai fent això. No sé per a què, però sembla cosa seva."
+  },
+  {
+   "id": "regular:550",
+   "translation": "Creus que les estàtues estan enregistrant els nostres records, doncs? Perquè recordo que la de la platja em va mirar d'una manera estranya. Deu ser la meva amiga dels records!"
+  },
+  {
+   "id": "regular:551",
+   "translation": "Espera, ostres, de debò? Els Nomai van excavar Ash Twin i van construir-hi un dispositiu de bucle temporal? ...Això és <i>salvatge</i>."
+  },
+  {
+   "id": "regular:552",
+   "translation": "Ara ja sabem què causa el bucle. I... si el causa un dispositiu, això vol dir que algú el va haver d'engegar, oi? Hmm..."
+  },
+  {
+   "id": "regular:553",
+   "translation": "Ei, què creus que passaria si apaguessis el bucle temporal? Vull dir, hi ha una part de mi que pensa que potser no hauries de fer-ho, amb el sol explotant i tot."
+  },
+  {
+   "id": "regular:554",
+   "translation": "Però, d'altra banda, qui vol passar l'eternitat explotant amb el sol?"
+  },
+  {
+   "id": "regular:555",
+   "translation": "Bé, no en soc cap expert dels bucles temporals. Jo em quedaré assegut aquí reflexionant sobre les complexitats del temps i l'espai. Potser també faré una becaina, si em ve de gust."
+  },
+  {
+   "id": "regular:556",
+   "translation": "Vols dir que les estàtues es van fer per poder enviar records enrere en el temps? Suposo que té sentit, tenint en compte que tots dos tenim els records de cada bucle que hem viscut."
+  },
+  {
+   "id": "regular:557",
+   "translation": "Espera, llavors només són els nostres records que ens envien enrere en el temps, oi? Llavors... estem experimentant de debò múltiples bucles temporals, o no?"
+  },
+  {
+   "id": "regular:558",
+   "translation": "Això és força profund... Com que potser les nostres consciències han passat per tots aquests bucles, però potser els nostres cossos no, perquè tècnicament els bucles mai no van passar."
+  },
+  {
+   "id": "regular:559",
+   "translation": "És a dir, rebem records de coses que mai no ens passaran. Genial, oi?"
+  },
+  {
+   "id": "regular:560",
+   "translation": "Ostres, és el canó que es desfà a l'inici de cada bucle temporal? De debò?"
+  },
+  {
+   "id": "regular:561",
+   "translation": "Has esbrinat per què?"
+  },
+  {
+   "id": "regular:562",
+   "translation": "Massa potència."
+  },
+  {
+   "id": "regular:563",
+   "translation": "Entusiasme excessiu."
+  },
+  {
+   "id": "regular:564",
+   "translation": "...Fa una mica de por com sona a una cosa que farien en Slate o en Feldspar. Em sorprèn força que els Nomai construïssin una cosa que de debò es va espatllar!"
+  },
+  {
+   "id": "regular:565",
+   "translation": "Pensant-hi bé, però, «espatllat» potser no és la paraula correcta. Perquè sembla que l'Orbital Probe Cannon encara dispara amb èxit a l'inici de cada bucle temporal."
+  },
+  {
+   "id": "regular:566",
+   "translation": "Ah, sí, el del bosc, recordo haver-lo escrit. Força divertit, oi? Surt a unes bones 24 versions del poema."
+  },
+  {
+   "id": "regular:567",
+   "translation": "Quan acabi d'explorar, vull fer més art quàntic. Potser una mena d'escultura de criatura que, així, apareix mentre estàs d'esquena i t'espanta de mort."
+  },
+  {
+   "id": "regular:568",
+   "translation": "ENREGISTRAMENT"
+  },
+  {
+   "id": "regular:569",
+   "translation": "Aquí en Gabbro, comprovant el satèl-lit de l'espai profund a petició del control de terra per investigar un possible problema d'equipament. Ho veus, Hornfels? Sí que treballo!"
+  },
+  {
+   "id": "regular:570",
+   "translation": "Saps, no em sabria greu ser un satèl-lit. Aquí fora és pacífic, entre els estels llunyans i la foscor suau i vellutada... Segur que també és (badall) molt agradable per fer becaines..."
+  },
+  {
+   "id": "regular:571",
+   "translation": "..."
+  },
+  {
+   "id": "regular:572",
+   "translation": "Ah, sí. La lent."
+  },
+  {
+   "id": "regular:573",
+   "translation": "D'acord, petit satèl-lit, vegem quin és el problema."
+  },
+  {
+   "id": "regular:574",
+   "translation": "...Hmm. Tot sembla perfecte, control de terra. Ni pols ni ratllades a la lent, ni proves de xispes ni d'explosions violentes. Suposo que això descarta, al capdavall, un mal funcionament de l'equipament."
+  },
+  {
+   "id": "regular:575",
+   "translation": "Ho sents, amic? Estàs en plena forma. Segueix fent bona feina aquí fora!"
+  },
+  {
+   "id": "regular:576",
+   "translation": "RÈTOL"
+  },
+  {
+   "id": "regular:577",
+   "translation": "TANCAT PER DANYS D'INCENDI"
+  },
+  {
+   "id": "regular:578",
+   "translation": "La vella torre de ràdio, tot i ser un punt de referència important, està malauradament tancada a causa de les proves de vol no autoritzades d'un coet de model extremadament potent."
+  },
+  {
+   "id": "regular:579",
+   "translation": "Tot i que esperem reparar la torre de ràdio en el futur, tots els esforços de construcció es concentren actualment en l'ampliació prevista del museu a l'Observatory."
+  },
+  {
+   "id": "regular:580",
+   "translation": "Les més sinceres disculpes, excepte a en Slate i la Mica,\\\\n\\\\nHornfels (conservador del museu)"
+  },
+  {
+   "id": "regular:581",
+   "translation": "La torre de ràdio d'aquí, a Timber Hearth, es va construir per rebre transmissions del nostre satèl-lit de l'espai profund, i encara avui allotja les primeres fotografies mai fetes de tot el sistema solar."
+  },
+  {
+   "id": "regular:582",
+   "translation": "Aquestes fotografies van ser possibles gràcies a l'òrbita vertical inusual del satèl-lit de l'espai profund, que el porta molt per sobre (i per sota) del pla del sistema solar."
+  },
+  {
+   "id": "regular:583",
+   "translation": "Gràcies a una actualització recent, el satèl-lit de l'espai profund ara s'encarrega de generar el mapa del sistema solar en temps real que fan servir els nostres astronautes més nous."
+  },
+  {
+   "id": "regular:584",
+   "translation": "La nostra nova ampliació ha estat possible gràcies a les generoses contribucions d'estimats visitants del museu com tu. Moltes gràcies pel teu suport!"
+  },
+  {
+   "id": "regular:585",
+   "translation": "FUTUR EMPLAÇAMENT DE LA NOSTRA PROPERA EXPOSICIÓ!"
+  },
+  {
+   "id": "regular:586",
+   "translation": "Si has gaudit del teu temps amb Outer Wilds, considera donar suport a la nostra ampliació prevista del museu."
+  },
+  {
+   "id": "regular:587",
+   "translation": "La nostra missió d'explorar els racons més llunyans del nostre sistema solar no seria possible sense visitants generosos com tu! T'agraïm profundament el teu suport i esperem tornar-te a veure aviat."
+  },
+  {
+   "id": "regular:588",
+   "translation": "Slate"
+  },
+  {
+   "id": "regular:589",
+   "translation": "Aquí tenim el nostre pilot! Veig que has tornat del campament previ al llançament sota els estels."
+  },
+  {
+   "id": "regular:590",
+   "translation": "Així que és el Dia del Llançament, eh? Sembla que va ser ahir que et vas unir al programa espacial, i de cop ja ets aquí, marxant en el teu primer viatge en solitari."
+  },
+  {
+   "id": "regular:591",
+   "translation": "Què me'n dius, a punt per enlairar aquesta bellesa? Està tota proveïda de combustible i a punt per sortir!"
+  },
+  {
+   "id": "regular:592",
+   "translation": "Tots els sistemes a punt!"
+  },
+  {
+   "id": "regular:593",
+   "translation": "Estic a punt si tu ho estàs."
+  },
+  {
+   "id": "regular:594",
+   "translation": "Estàs <i>segur</i> que has arreglat els retrocoets?"
+  },
+  {
+   "id": "regular:595",
+   "translation": "Ei, estàs a punt per enlairar aquesta cosa? La nau està tota proveïda de combustible i a punt per sortir."
+  },
+  {
+   "id": "regular:596",
+   "translation": "He... he mort... just ara?"
+  },
+  {
+   "id": "regular:597",
+   "translation": "Tots els sistemes a punt!"
+  },
+  {
+   "id": "regular:598",
+   "translation": "Estic a punt si tu ho estàs."
+  },
+  {
+   "id": "regular:599",
+   "translation": "Estàs <i>segur</i> que has arreglat els retrocoets?"
+  }
+ ]
+}

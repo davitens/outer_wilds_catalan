@@ -1,0 +1,21 @@
+{
+  "policy": "Keep the English original for proper nouns; translate everything else into Catalan.",
+  "keep_english": [
+    "Outer Wilds", "Hearthian", "Nomai", "Hearth", "Solar System",
+    "Timber Hearth", "Brittle Hollow", "Giant's Deep", "Dark Bramble",
+    "Ember Twin", "Ash Twin", "Hourglass Twins", "Hollow's Lantern",
+    "Quantum Moon", "The Interloper", "Eye of the Universe",
+    "Vessel", "Escape Pod", "Ash Twin Project", "Orbital Probe Cannon",
+    "Nomai Ruins", "Black Hole Forge", "White Hole Station",
+    "Solanum", "Solanum", "Poke", "Pye", "Clary", "Poki", "Mallow", "Avens",
+    "Feldspar", "Gossan", "Slate", "Riebeck", "Chert", "Esker", "Hal",
+    "Hornfels", "Gabbro", "Thistle", "Mica", "Tektite", "Solanum"
+  ],
+  "style": [
+    "Use natural Catalan punctuation (l'apòstrof, els guions llargs).",
+    "Keep ALL markup exactly: <color=...>, </color>, <i>, </i>, and the literal \\n sequences.",
+    "Do not translate text inside <color=orange>...</color> item names unless they are common nouns.",
+    "Speaker prefixes like 'SOLANUM:' stay unchanged.",
+    "Avoid the interpunct in 'l·l' until glyph coverage is verified; use 'l-l' or rephrase."
+  ]
+}

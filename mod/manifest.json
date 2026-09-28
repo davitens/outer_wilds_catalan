@@ -1,0 +1,12 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/dev/schemas/manifest_schema.json",
+  "filename": "CatalanTranslation.dll",
+  "author": "davitens",
+  "name": "Catalan Translation",
+  "uniqueName": "davitens.CatalanTranslation",
+  "version": "0.1.0",
+  "owmlVersion": "2.16.3",
+  "dependencies": [
+    "xen.LocalizationUtility"
+  ]
+}

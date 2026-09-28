@@ -1,0 +1,11 @@
+{
+ "entries": [
+  {"id": "regular:0", "translation": "Com pot ser que l'<color=lightblue>Ull</color> sigui més antic que el mateix univers?"},
+  {"id": "regular:1", "translation": "Suposem que és una relíquia d'un univers anterior."},
+  {"id": "regular:2", "translation": "L'univers primigeni era inimaginablement calent i dens. Si hi hagués existit res abans, hauria estat destruït."},
+  {"id": "regular:3", "translation": "Suposem que l'univers és més antic del que es pensava."},
+  {"id": "ui:0", "translation": "REPRÈN L'EXPEDICIÓ"},
+  {"id": "ui:1", "translation": "NOVA EXPEDICIÓ"},
+  {"id": "ui:2", "translation": "SURT"}
+ ]
+}

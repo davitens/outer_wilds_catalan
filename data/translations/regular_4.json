@@ -1,0 +1,1088 @@
+{
+ "entries": [
+  {
+   "id": "regular:1320",
+   "translation": "POKE: (No ho diguis a la Cassava.)"
+  },
+  {
+   "id": "regular:1321",
+   "translation": "PYE: La Ramie i jo hem revisat els registres que vas enviar, Poke, i sembla que mostren que els Nomai arriben al receptor de salt de <color=lightblue>Brittle Hollow</color> una mica <i>abans</i> de sortir de l'<color=orange>White Hole Station</color>."
+  },
+  {
+   "id": "regular:1322",
+   "translation": "POKE: Entenc que és extraordinàriament estrany, però la Clary i jo hem provat i reprovat l'equip, i el resultat és el mateix cada vegada que algú fa un salt."
+  },
+  {
+   "id": "regular:1323",
+   "translation": "RAMIE: L'interval és increïblement minúscul (aproximadament una cent-mil-lèsima de segon). Creus que els nostres instruments no poden mesurar el temps amb tanta precisió?"
+  },
+  {
+   "id": "regular:1324",
+   "translation": "PYE: Com ja he dit a la Ramie, aquestes mesures no poden ser exactes. Com pot arribar un Nomai a <color=lightblue>Brittle Hollow</color> abans que hagi trepitjat el teleportador? Les implicacions són absurdes."
+  },
+  {
+   "id": "regular:1325",
+   "translation": "POKE: No ho nego. <i>Voldria</i> dir que he trencat sense voler diverses teories fonamentals sobre aquest univers. Hauríem de reconsiderar totes les nostres creences sobre la naturalesa del temps."
+  },
+  {
+   "id": "regular:1326",
+   "translation": "RAMIE: Sí, jo també ho espero!"
+  },
+  {
+   "id": "regular:1327",
+   "translation": "RAMIE: Poke, com que la Pye està convençuda que la lectura és inexacta, m'ajuda amablement a intentar recrear aquest fenomen a l'<color=orange>High Energy Lab</color>. Estem dissenyant un experiment per obtenir més dades."
+  },
+  {
+   "id": "regular:1328",
+   "translation": "PYE: Una actualització: Poke, l'<color=orange>High Energy Lab</color> és al canó de l'equador d'<color=lightblue>Ember Twin</color>. <i>Vine aquí de seguida</i>. Has de veure això."
+  },
+  {
+   "id": "regular:1329",
+   "translation": "Notes de recerca d'en Chert — propietat d'en Chert!"
+  },
+  {
+   "id": "regular:1330",
+   "translation": "Aquest és un cràter antic. El més curiós és que la composició de les mostres que vaig prendre del lloc de l'impacte coincideix amb la composició del gel de la perifèria de <color=lightblue>Dark Bramble</color>."
+  },
+  {
+   "id": "regular:1331",
+   "translation": "Em pensaria que l'<color=lightblue>Attlerock</color> va ser colpejat per un tros del planeta que abans era on ara hi ha <color=lightblue>Dark Bramble</color>."
+  },
+  {
+   "id": "regular:1332",
+   "translation": "Per investigar més endavant: potser hi ha més fragments del vell planeta <color=lightblue>Dark Bramble</color> destruïts en altres cossos celestes del sistema solar?"
+  },
+  {
+   "id": "regular:1333",
+   "translation": "Notes de recerca d'en Chert - propietat d'en Chert!"
+  },
+  {
+   "id": "regular:1334",
+   "translation": "És clar que els Nomai feien aquí observacions astronòmiques. Van triar un lloc excel-lent!"
+  },
+  {
+   "id": "regular:1335",
+   "translation": "Per a què serveix aquest gran dispositiu giratori? Què estaven observant els Nomai?"
+  },
+  {
+   "id": "regular:1336",
+   "translation": "Diria que hi ha alguna cosa especial en el símbol taronja d'aquell dispositiu. Aniria bé tenir a mà en Hal i l'eina traductora del nou astronauta ara mateix."
+  },
+  {
+   "id": "regular:1337",
+   "translation": "He detectat un senyal estrany provinent d'algun lloc dins del bosc en aquest cràter."
+  },
+  {
+   "id": "regular:1338",
+   "translation": "És molt similar al senyal emès per la Quantum Moon, així que és raonable pensar que els dos senyals probablement estan relacionats."
+  },
+  {
+   "id": "regular:1339",
+   "translation": "No sabem gaire coses de la Quantum Moon, ja que ningú no ha aconseguit aterrar-hi mai, però esperem que estudiar el senyal del bosc en reveli més coses."
+  },
+  {
+   "id": "regular:1340",
+   "translation": "Registre del captasenyals de l'Esker"
+  },
+  {
+   "id": "regular:1341",
+   "translation": "Dia 48: Encara no capto el banjo d'en Riebeck des de Brittle Hollow. Segur que es troben bé, però em sentiré millor quan pugui escoltar la seva música."
+  },
+  {
+   "id": "regular:1342",
+   "translation": "Dia 51: Avui he escoltat en Chert tocar una estona. Sense relació, algú hauria de dir a en Porphy i a en Gossan que el seu festeig <i>no</i> és subtil des d'una perspectiva aèria."
+  },
+  {
+   "id": "regular:1343",
+   "translation": "Dia 55: Avui arriba la música de banjo ben forta i clara! Sembla que en Riebeck està bé. Aquest ruc, m'havia preocupat!"
+  },
+  {
+   "id": "regular:1344",
+   "translation": "Dia 63: Avui he cregut sentir alguna cosa... estranya. No ho sé — probablement no era res."
+  },
+  {
+   "id": "regular:1345",
+   "translation": "Dia 70: No, avui també ha tornat. Alguna cosa estranya ve de Timber Hearth."
+  },
+  {
+   "id": "regular:1346",
+   "translation": "Dia 76: D'acord, <i>sé</i> que estic boig, però el so de Timber Hearth sona exactament com l'harmònica d'en Feldspar. Però en Feldspar va desaparèixer a l'espai fa segles. No pot ser ell..."
+  },
+  {
+   "id": "regular:1347",
+   "translation": "Dia 88: <i>Encara és aquí</i>. Això és esgarrifós. Potser el meu captasenyals està espatllat? Val més que parli amb en Gneiss."
+  },
+  {
+   "id": "regular:1348",
+   "translation": "COMBUSTIBLE DE RECANVI DEL JETPACK D'EN FELDSPAR"
+  },
+  {
+   "id": "regular:1349",
+   "translation": "És molèstic arrossegar-me per tot el planeta fins a la nau si no puc fer servir el jetpack, així que deixo això aquí."
+  },
+  {
+   "id": "regular:1350",
+   "translation": "Ho he comprovat amb el meu Little Scout — <i>sí</i> que el faig servir, Hornfels, tros de malví cremat — i la lectura d'integritat de l'explorador deia que aquest tros de Brittle Hollow és tan estable com qualsevol altre, però qui ho sap."
+  },
+  {
+   "id": "regular:1351",
+   "translation": "Si el combustible encara hi és, fes-lo servir sense problema. Si no, bé, allà on estiguis llegint aquesta nota, segur que tens problemes més grossos."
+  },
+  {
+   "id": "regular:1352",
+   "translation": "Viatge 4, entrada # el que sigui \\\\n Xocs: 2 \\\\n Xocs avorrits: 0 (recorda veure en Slate quan torni)"
+  },
+  {
+   "id": "regular:1353",
+   "translation": "Ha <i>ha</i>, sí! <i>Sí</i>! Fins al nucli! Considera't conquerit, Giant's Deep — acabes de ser <i>Feldsparitzat</i>."
+  },
+  {
+   "id": "regular:1354",
+   "translation": "Aquesta ha estat una de les meves gestes més espectaculars, si ho he de dir jo mateix. No em puc creure que no m'electrocutés! Ahhh, quines ganes d'explicar-ho a en Hornfels i a en Gossan — sembla que la força bruta no sempre és la resposta."
+  },
+  {
+   "id": "regular:1355",
+   "translation": "Bé, doncs una cosa menys de la llista. Sembla que ara només queda la gran. Dark Bramble, ja hi vaig!"
+  },
+  {
+   "id": "regular:1356",
+   "translation": "Membres fundadors d'Outer Wilds Ventures. En sentit horari des de dalt a l'esquerra: Hornfels, Gossan, Slate i Feldspar."
+  },
+  {
+   "id": "regular:1357",
+   "translation": "PERILL! Dins d'aquesta tanca hi ha una bossa de <color=orange>ghost matter</color> - una substància estranya i perillosa invisible a l'ull nu. La bona notícia és que pots detectar la <color=orange>ghost matter</color> amb una càmera."
+  },
+  {
+   "id": "regular:1358",
+   "translation": "Moure's a través de la <color=orange>ghost matter</color> és singularment dolorós i probablement et matarà. No et queixis a mi si et fas mal fent el ximple.\\\\n- Hornfels"
+  },
+  {
+   "id": "regular:1359",
+   "translation": "Gneiss"
+  },
+  {
+   "id": "regular:1360",
+   "translation": "Hola, cadet espacial! He sentit que avui surts del cràter."
+  },
+  {
+   "id": "regular:1361",
+   "translation": "Si trobes algun dels altres viatgers allà dalt, recorda'ls que tinguin cura dels seus instruments, d'acord?"
+  },
+  {
+   "id": "regular:1362",
+   "translation": "Parla'm dels instruments dels viatgers."
+  },
+  {
+   "id": "regular:1363",
+   "translation": "On és l'observatori?"
+  },
+  {
+   "id": "regular:1364",
+   "translation": "Només passava a saludar abans de marxar."
+  },
+  {
+   "id": "regular:1365",
+   "translation": "Vés amb compte allà dalt a l'espai!"
+  },
+  {
+   "id": "regular:1366",
+   "translation": "És precisament preguntes com aquesta les que ens fan patir perquè vagis sol a l'espai, saps."
+  },
+  {
+   "id": "regular:1367",
+   "translation": "L'observatori és pujant el camí que hi ha darrere la cascada. Hi ha un parell de cartells que assenyalen el camí, però en realitat només has de seguir pujant i girar a la dreta quan arribis a la cova de gravetat zero."
+  },
+  {
+   "id": "regular:1368",
+   "translation": "Ah, és clar! Jo vaig fer tots els seus instruments, saps. A veure... Hi ha els tambors d'en Chert, el banjo d'en Riebeck i la flauta d'en Gabbro."
+  },
+  {
+   "id": "regular:1369",
+   "translation": "I l'harmònica d'en Feldspar, és clar, encara que en Feldspar fa molt de temps que va desaparèixer. De vegades sembla que va ser ahir que tocaven l'harmònica vora la foguera..."
+  },
+  {
+   "id": "regular:1370",
+   "translation": "De totes maneres, si sents música a l'espai, serà un dels altres viatgers del programa espacial. Si et ve de gust companyia, sempre pots treure el captasenyals i localitzar-los."
+  },
+  {
+   "id": "regular:1371",
+   "translation": "El problema és que cada vegada que un Hearthian marxa a l'espai exterior, tenim un músic menys a la nostra orquestra."
+  },
+  {
+   "id": "regular:1372",
+   "translation": "I doncs! Necessitaves alguna cosa?"
+  },
+  {
+   "id": "regular:1373",
+   "translation": "Parla'm dels instruments dels viatgers."
+  },
+  {
+   "id": "regular:1374",
+   "translation": "On és l'observatori?"
+  },
+  {
+   "id": "regular:1375",
+   "translation": "No, estic bé."
+  },
+  {
+   "id": "regular:1376",
+   "translation": "Tot bé? Sembla una mica aviat perquè hagis tornat de l'espai."
+  },
+  {
+   "id": "regular:1377",
+   "translation": "Necessitaves alguna cosa de mi?"
+  },
+  {
+   "id": "regular:1378",
+   "translation": "Parla'm dels instruments dels viatgers."
+  },
+  {
+   "id": "regular:1379",
+   "translation": "De fet, estic bé."
+  },
+  {
+   "id": "regular:1380",
+   "translation": "Molt bé. Cuida't, eh."
+  },
+  {
+   "id": "regular:1381",
+   "translation": "Gossan"
+  },
+  {
+   "id": "regular:1382",
+   "translation": "Ei, pensava que et veuria abans del gran llançament."
+  },
+  {
+   "id": "regular:1383",
+   "translation": "Et traeixen els nervis?"
+  },
+  {
+   "id": "regular:1384",
+   "translation": "Sí, com si tu no estiguessis nerviós en el teu primer vol."
+  },
+  {
+   "id": "regular:1385",
+   "translation": "Estic una mica nerviós, sí."
+  },
+  {
+   "id": "regular:1386",
+   "translation": "Que dius? Sóc un natural en això!"
+  },
+  {
+   "id": "regular:1387",
+   "translation": "Ei, no et preocupis. Els teus nervis queden entre tu, jo i la vasta infinitud de l'espai."
+  },
+  {
+   "id": "regular:1388",
+   "translation": "Però de debò, te'n sortiràs bé allà fora. Jo em preocuparia més per aquesta nau, si fos tu. Esperem que aquest boig d'en Slate almenys hagi arreglat els retrocoets."
+  },
+  {
+   "id": "regular:1389",
+   "translation": "Bé. Tothom hauria d'estar una mica nerviós abans d'anar a l'espai. Jo em vaig confiar massa en el meu primer vol i gairebé vaig fer un cràter nou a la lluna."
+  },
+  {
+   "id": "regular:1390",
+   "translation": "De totes maneres, jo mai no era tan verd com tu."
+  },
+  {
+   "id": "regular:1391",
+   "translation": "Ei, he millorat!"
+  },
+  {
+   "id": "regular:1392",
+   "translation": "No és això el que diu en Slate..."
+  },
+  {
+   "id": "regular:1393",
+   "translation": "Ah, sí? Curiós, em sembla recordar que el primer cop que et vas posar un jetpack, vam haver de venir a rescatar-te del cràter a prop del pol sud."
+  },
+  {
+   "id": "regular:1394",
+   "translation": "Ei, ja saps prou bé que no te n'has de creure ni una paraula del que diu aquest boig sobre mi."
+  },
+  {
+   "id": "regular:1395",
+   "translation": "Encara els cou que els fes instal-lar un arnès de seguretat a la cabina. Deien que «descompensaria la relació empenta-pes»."
+  },
+  {
+   "id": "regular:1396",
+   "translation": "De debò. Un d'aquests dies descompensaré la <i>relació empenta-pes d'en Slate</i>."
+  },
+  {
+   "id": "regular:1397",
+   "translation": "Ah, sí? Et ve de gust demostrar-ho al teu vell instructor de vol?"
+  },
+  {
+   "id": "regular:1398",
+   "translation": "Hi ha un «satèl-lit» — que definitivament <i>no</i> és només un tros d'equip miner espatllat — instalat a baix a la cova de gravetat zero i que necessita reparacions."
+  },
+  {
+   "id": "regular:1399",
+   "translation": "Si busques una mica de pràctica d'última hora de gravetat zero, baixa per l'ascensor i endinsa't a la cova. O no ho facis, sempre que estiguis segur que pots reparar la nau a l'espai."
+  },
+  {
+   "id": "regular:1400",
+   "translation": "Un «satèl-lit» reparat, cap aquí!"
+  },
+  {
+   "id": "regular:1401",
+   "translation": "No, estic a punt per a la veritable aventura."
+  },
+  {
+   "id": "regular:1402",
+   "translation": "Escolta, hi ha un «satèl-lit» — que definitivament <i>no</i> és només un tros d'equip miner espatllat — instalat a baix a la cova de gravetat zero i que necessita reparacions."
+  },
+  {
+   "id": "regular:1403",
+   "translation": "Si busques una mica de pràctica d'última hora de gravetat zero, baixa per l'ascensor i endinsa't a la cova. O no ho facis, sempre que estiguis segur que pots reparar la nau a l'espai."
+  },
+  {
+   "id": "regular:1404",
+   "translation": "Un «satèl-lit» reparat, cap aquí!"
+  },
+  {
+   "id": "regular:1405",
+   "translation": "No, estic a punt per a la veritable aventura."
+  },
+  {
+   "id": "regular:1406",
+   "translation": "Genial. Posi-t'hi, i intenta no fer-te una commoció cerebral just abans del teu primer llançament."
+  },
+  {
+   "id": "regular:1407",
+   "translation": "He. I ben cert que sí."
+  },
+  {
+   "id": "regular:1408",
+   "translation": "No et facis matar allà fora, sents? No després d'haver-me esforçat tant a entrenar-te."
+  },
+  {
+   "id": "regular:1409",
+   "translation": "...Haha, vés, vés i fes que Outer Wilds Ventures estigui orgullós."
+  },
+  {
+   "id": "regular:1410",
+   "translation": "Si has canviat d'opinió sobre practicar les reparacions de la nau, baixa per l'ascensor i endinsa't a la cova de gravetat zero."
+  },
+  {
+   "id": "regular:1411",
+   "translation": "Només has de maniobrar fins al «satèl-lit» i reparar cada zona danyada, igual que faràs amb la teva nau."
+  },
+  {
+   "id": "regular:1412",
+   "translation": "Què esperes? Aquest «satèl-lit» no es repararà sol."
+  },
+  {
+   "id": "regular:1413",
+   "translation": "Només has de maniobrar fins al «satèl-lit» i reparar cada zona danyada, igual que faràs amb la teva nau."
+  },
+  {
+   "id": "regular:1414",
+   "translation": "Ben fet! És clar, serà una mica més estressant quan et llencis per l'espai, però recorda el teu entrenament i intenta no xocar amb res gros."
+  },
+  {
+   "id": "regular:1415",
+   "translation": "Veig que et moriries de ganes de marxar d'aquest tros de pedra, així que vés a buscar els <color=orange>codis de llançament a l'observatori</color> i fot el camp d'una vegada."
+  },
+  {
+   "id": "regular:1416",
+   "translation": "Molta sort allà fora! I escolta, intenta no morir ara que he dedicat tant de temps a entrenar-te, entesos?"
+  },
+  {
+   "id": "regular:1417",
+   "translation": "Has tornat molt aviat. Tot bé? En Slate no ha fet cap ximpleria com instal-lar un botó d'autodestrucció, oi?"
+  },
+  {
+   "id": "regular:1418",
+   "translation": "Ei, no t'oblidis de posar-te el vestit! No vull haver de venir a rescatar-te d'allà una altra vegada."
+  },
+  {
+   "id": "regular:1419",
+   "translation": "Ei! Passa a saludar el teu vell instructor de vol abans del llançament. Tinc un entrenament de gravetat zero preparat si vols refrescar-ho.\\\\n\\\\n-Gossan"
+  },
+  {
+   "id": "regular:1420",
+   "translation": "Ei, ei! Has mirat bé aquella estàtua Nomai?"
+  },
+  {
+   "id": "regular:1421",
+   "translation": "L'estàtua m'ha mirat i ha obert els ulls!"
+  },
+  {
+   "id": "regular:1422",
+   "translation": "L'estàtua brillava! Per què brillava?!"
+  },
+  {
+   "id": "regular:1423",
+   "translation": "Epa, epa — l'estàtua feia <i>què</i>?"
+  },
+  {
+   "id": "regular:1424",
+   "translation": "O sigui que se li van obrir els ulls, i després vas veure imatges dels teus propis records i llums resplendents voleiant? Vols dir com <Pause/> una al-lucinació?"
+  },
+  {
+   "id": "regular:1425",
+   "translation": "Escolta, sense ofendre, però... estàs segur que pots llançar-te? Vull dir, mèdicament parlant?"
+  },
+  {
+   "id": "regular:1426",
+   "translation": "Saps què, no et preocupis."
+  },
+  {
+   "id": "regular:1427",
+   "translation": "No, aquella estàtua és <i>definitivament estranya</i>."
+  },
+  {
+   "id": "regular:1428",
+   "translation": "Potser hauries de seure una estona i prendre-t'ho amb calma. No voldria que passés res dolent si intentessis enlairar-te mentre no et trobes bé."
+  },
+  {
+   "id": "regular:1429",
+   "translation": "Però ei, quan <i>estiguis</i> a punt, podràs aprofitar al màxim la nostra eina traductora! <color=grey>Snif...</color><Pause/> No em puc creure que ja sigui gran i marxi a l'espai."
+  },
+  {
+   "id": "regular:1430",
+   "translation": "De debò, però, m'alegro que siguis tu qui la porta i no, no sé, en Riebeck. Segur que hi cauria a sobre."
+  },
+  {
+   "id": "regular:1431",
+   "translation": "Escolta, si vols fer un viatge curt per agafar el ritme de l'espai, podries visitar les ruïnes de l'Attlerock! M'encantaria saber què són."
+  },
+  {
+   "id": "regular:1432",
+   "translation": "Vull dir, si dius que va passar, doncs... suposo que potser sí. Però per què?"
+  },
+  {
+   "id": "regular:1433",
+   "translation": "En Hornfels va provar de tot per fer obrir els ulls de l'estàtua, i mai no li va passar res semblant."
+  },
+  {
+   "id": "regular:1434",
+   "translation": "No crec que obtinguis cap resposta de l'estàtua del museu, però en Gabbro va dir que tornava a Giant's Deep. Encara que no sé a quina illa és."
+  },
+  {
+   "id": "regular:1435",
+   "translation": "Potser en podrien explicar més? D'altra banda, en Gabbro és, ja saps, <i>Gabbro</i>, així que potser més et valdria buscar més informació pel teu compte."
+  },
+  {
+   "id": "regular:1436",
+   "translation": "...Caram, ara <i>sí</i> que tinc enveja que vagis a l'espai! Ei, mira si pots fer servir la nostra eina traductora per descobrir més coses de l'estàtua, d'acord?"
+  },
+  {
+   "id": "regular:1437",
+   "translation": "Bona sort, i vola segur!"
+  },
+  {
+   "id": "regular:1438",
+   "translation": "Hola una altra vegada!"
+  },
+  {
+   "id": "regular:1439",
+   "translation": "Hi havia alguna cosa més?"
+  },
+  {
+   "id": "regular:1440",
+   "translation": "On a Giant's Deep podria trobar en Gabbro?"
+  },
+  {
+   "id": "regular:1441",
+   "translation": "D'on ve l'estàtua Nomai del museu?"
+  },
+  {
+   "id": "regular:1442",
+   "translation": "Per què van fer els Nomai aquella estàtua?"
+  },
+  {
+   "id": "regular:1443",
+   "translation": "Em pregunto si descobriré alguna cosa interessant a l'espai."
+  },
+  {
+   "id": "regular:1444",
+   "translation": "Fins després."
+  },
+  {
+   "id": "regular:1445",
+   "translation": "En Gabbro va dir que tornava a Giant's Deep, allà on va trobar aquella estàtua Nomai. Una de les illes, crec."
+  },
+  {
+   "id": "regular:1446",
+   "translation": "Recordes que en Gabbro toca la flauta, oi? Com, tota l'estona? Segur que el teu captasenyals el podria trobar fàcilment."
+  },
+  {
+   "id": "regular:1447",
+   "translation": "Si veus en Gabbro, saluda'l de la meva part!"
+  },
+  {
+   "id": "regular:1448",
+   "translation": "De Giant's Deep! En Gabbro la va pescar dels oceans i la va portar aquí per estudiar-la."
+  },
+  {
+   "id": "regular:1449",
+   "translation": "En Hornfels encara no en sap gaire, només que és <i>boig</i> d'antiga i súper dura. Em pregunto per què la van esculpir els Nomai?"
+  },
+  {
+   "id": "regular:1450",
+   "translation": "Pel que sembla, en Gabbro va tornar a Giant's Deep per intentar aprendre més sobre l'estàtua. Potser hi trobarà algunes respostes."
+  },
+  {
+   "id": "regular:1451",
+   "translation": "Bona pregunta! Saps que en Gabbro va fer caure un fragment de l'estàtua mentre la transportava de tornada de Giant's Deep?"
+  },
+  {
+   "id": "regular:1452",
+   "translation": "En Hornfels va analitzar el fragment i va descobrir que la pedra de què està feta pot emmagatzemar informació — he sentit que en Slate va acabar reutilitzant-la per a l'ordinador de la teva nau."
+  },
+  {
+   "id": "regular:1453",
+   "translation": "No estic segur de què hi té a veure que l'estàtua obri els ulls, però potser l'estàtua també es va fer per emmagatzemar informació?"
+  },
+  {
+   "id": "regular:1454",
+   "translation": "Ei, mai no se sap — potser seràs tu qui desvetlli els misteris dels Nomai!"
+  },
+  {
+   "id": "regular:1455",
+   "translation": "O potser descobriràs un tipus nou de pedra o una cosa així."
+  },
+  {
+   "id": "regular:1456",
+   "translation": "Però sincerament, mentre no acabin posant el teu nom a un nou equip de seguretat, segur que hauràs fet una feina genial."
+  },
+  {
+   "id": "regular:1457",
+   "translation": "Vés amb compte allà fora a l'espai!"
+  },
+  {
+   "id": "regular:1458",
+   "translation": "Marl"
+  },
+  {
+   "id": "regular:1459",
+   "translation": "O sigui que avui és el dia del llançament, eh? En Hal et trobarà a faltar."
+  },
+  {
+   "id": "regular:1460",
+   "translation": "Parlant del dia del llançament... hi pensava, i la plataforma des d'on s'enlairen aquestes naus s'està fent vella. No seria hora de construir-ne una de nova, menys inflamable?"
+  },
+  {
+   "id": "regular:1461",
+   "translation": "Aquell arbre gran del poble seria l'opció perfecta. No em faria res ajudar el programa espacial. Només cal que ho diguis!"
+  },
+  {
+   "id": "regular:1462",
+   "translation": "L'actual plataforma de llançament està bé, gràcies."
+  },
+  {
+   "id": "regular:1463",
+   "translation": "Bon intent. Tots sabem que la tens jurada a aquest arbre."
+  },
+  {
+   "id": "regular:1464",
+   "translation": "La plataforma de llançament és INFLAMABLE?!"
+  },
+  {
+   "id": "regular:1465",
+   "translation": "Ah. De debò? Caram."
+  },
+  {
+   "id": "regular:1466",
+   "translation": "Bé, potser algú necessita un porxo nou o una cosa així. <Pause />Un de gran."
+  },
+  {
+   "id": "regular:1467",
+   "translation": "Què? No, només penso que destorba i que algú hauria de tallar-lo, saps? Concretament, jo."
+  },
+  {
+   "id": "regular:1468",
+   "translation": "...Haha, creus que això té a veure amb el cop que vaig caure'n i em vaig trencar el braç? Això va ser quan érem cries! Qui guardaria rancúnia tant de temps?"
+  },
+  {
+   "id": "regular:1469",
+   "translation": "Ha! No te n'havies adonat?"
+  },
+  {
+   "id": "regular:1470",
+   "translation": "No et preocupis, ha resistit tots els llançaments fins ara. Segur que anirà bé per al teu. Probablement."
+  },
+  {
+   "id": "regular:1471",
+   "translation": "Si passes per la lluna, saluda l'Esker de la meva part."
+  },
+  {
+   "id": "regular:1472",
+   "translation": "...Aquest arbre se les mereix."
+  },
+  {
+   "id": "regular:1473",
+   "translation": "Què hi fas aquí? T'has oblidat el vestit espacial o alguna cosa així?"
+  },
+  {
+   "id": "regular:1474",
+   "translation": "Porphy"
+  },
+  {
+   "id": "regular:1475",
+   "translation": "Hola, cria!"
+  },
+  {
+   "id": "regular:1476",
+   "translation": "He sentit que ens deixes per buscar aventura entre els estels. Quan tornis, tu, jo i en Gossan obrirem una ampolla de la Bona Mercaderia."
+  },
+  {
+   "id": "regular:1477",
+   "translation": "De fet, només busco aventura entre un estel. Els altres estels són massa lluny."
+  },
+  {
+   "id": "regular:1478",
+   "translation": "La Bona Mercaderia és menys «vi de saba deliciós» i més «desafiament digestiu esfereïdor»."
+  },
+  {
+   "id": "regular:1479",
+   "translation": "Una altra metàfora arruïnada en nom de la precisió científica."
+  },
+  {
+   "id": "regular:1480",
+   "translation": "Malgrat tot, espero que gaudeixis dels teus viatges. Bona sort!"
+  },
+  {
+   "id": "regular:1481",
+   "translation": "Un estómac de ferro és la marca d'un autèntic Hearthian, amic meu."
+  },
+  {
+   "id": "regular:1482",
+   "translation": "El nostre estil de vida robust de caçadors-recol-lectors ve de l'assaig i l'error. Amb això vull dir que els nostres avantpassats van sobreviure menjant moltes coses dolentes."
+  },
+  {
+   "id": "regular:1483",
+   "translation": "Holà, l'astronauta ha tornat!"
+  },
+  {
+   "id": "regular:1484",
+   "translation": "Digues, què puc fer per tu?"
+  },
+  {
+   "id": "regular:1485",
+   "translation": "Alguna xafarderia nova?"
+  },
+  {
+   "id": "regular:1486",
+   "translation": "Què fas?"
+  },
+  {
+   "id": "regular:1487",
+   "translation": "De fet, estic bé."
+  },
+  {
+   "id": "regular:1488",
+   "translation": "Espero ensenyar a l'Esker a extreure la saba dels arbres el proper cop que torni de l'Attlerock. Si em porta saba lunar, podré intentar fer vi de lluna!"
+  },
+  {
+   "id": "regular:1489",
+   "translation": "Acabo de segellar una altra tanda de vi de saba per envellir. M'agrada començar a envellir una tanda el dia d'una ocasió important, saps!"
+  },
+  {
+   "id": "regular:1490",
+   "translation": "Per això hi ha tantes ampolles etiquetades «col-lapse estructural» i «incendi domèstic»."
+  },
+  {
+   "id": "regular:1491",
+   "translation": "Que gaudeixis dels teus viatges!"
+  },
+  {
+   "id": "regular:1492",
+   "translation": "Caram, i jo que pensava que havia sentit enlairar-se la teva nau. La teva aventura només ha estat curta?"
+  },
+  {
+   "id": "regular:1493",
+   "translation": "D'acord, wow. <i>Wow.</i> He vist aquesta ruïna en fotografies d'altres viatgers, però veure-la jo mateix..."
+  },
+  {
+   "id": "regular:1494",
+   "translation": "És <Pause=1><i>realment</i> antiga, oi?"
+  },
+  {
+   "id": "regular:1495",
+   "translation": "Però wow, aquest és el dia més genial de la meva vida. ...D'acord, eh, hora d'escriure unes notes oficials!"
+  },
+  {
+   "id": "regular:1496",
+   "translation": "O sigui que això és una mena de «localitzador» Nomai. Pot assenyalar els diferents planetes - cosa que, per cert, és increïblement genial - però pel poc que entenc de l'escriptura d'aquí, crec que es va construir per intentar trobar alguna cosa concreta?"
+  },
+  {
+   "id": "regular:1497",
+   "translation": "No n'estic segur. També he pogut traduir alguna cosa sobre el pol sud de Brittle Hollow, així que hi volaré per veure si puc aprendre'n més."
+  },
+  {
+   "id": "regular:1498",
+   "translation": "Sí. Només tornaré a la vella nau i enlairar-me. Totalment segur... Gairebé segur. <size=20>Oh, estels del cel</size>..."
+  },
+  {
+   "id": "regular:1499",
+   "translation": "El viatge fins aquí des del pol sud ha estat, eh... diria «esfereïdor», per culpa dels, eh, tots els meteors. Però ei, almenys he arribat aquí sense commoció i sense cremar-me!"
+  },
+  {
+   "id": "regular:1500",
+   "translation": "D'acord, a veure... He regirat una mica, i hi ha una mena de camí Nomai antic que comença davant del meu campament, dins de l'edifici en ruïnes amb arbres que en surten."
+  },
+  {
+   "id": "regular:1501",
+   "translation": "No sembla res horrible - només escales que baixen. Puc amb les escales! Després de recollir el meu equip, seguiré el camí i veuré on porta."
+  },
+  {
+   "id": "regular:1502",
+   "translation": "Uf. Bé. Això ha estat... profundament desagradable. Però he arribat fins aquí. Suposo que és en això en què m'he de centrar, i no en com hauré de tornar <i>a pujar</i> aquell camí."
+  },
+  {
+   "id": "regular:1503",
+   "translation": "Però wow, aquest lloc és impressionant! Sembla que la Hanging City és al nord d'aquí. I a l'est hi ha un canó de gravetat! <i>Definitivament</i> vull veure-ho."
+  },
+  {
+   "id": "regular:1504",
+   "translation": "I una altra cosa - detecto oxigen d'algun lloc més avall. La qual cosa està bé, ja que jo, eh, he gastat bona part del meu subministrament cridant durant el descens des de la superfície."
+  },
+  {
+   "id": "regular:1505",
+   "translation": "Tan bon punt pari de tenir arcades seques, aniré més avall per poder reomplir el tanc."
+  },
+  {
+   "id": "regular:1506",
+   "translation": "Al principi pensava que era un antic assentament Nomai, però mirant-ho més de prop, no crec que ningú no hi hagués viscut mai. Aquests edificis són atípics per a habitatges Nomai."
+  },
+  {
+   "id": "regular:1507",
+   "translation": "La meva millor hipòtesi? Aquí podria ser on els Nomai fabricaven els cristalls de gravetat. Sabem que extreien material en brut de sota l'escorça de Brittle Hollow, i després refinaven aquest material per produir els cristalls."
+  },
+  {
+   "id": "regular:1508",
+   "translation": "Els cristalls de gravetat produeixen una distorsió gravitatòria local que afecta la zona del seu voltant, fins a un radi determinat. Són molt enginyosos! Els Nomai els feien servir per ancorar-se a superfícies per les quals volguessin desplaçar-se cap avall."
+  },
+  {
+   "id": "regular:1509",
+   "translation": "Nosaltres, els Hearthians, hem manllevat la seva tecnologia a les nostres naus, on els cristalls de gravetat mantenen els astronautes ancorats a un sol pla (gràcies als estels!)."
+  },
+  {
+   "id": "regular:1510",
+   "translation": "Ja sóc aquí! Ho he aconseguit! He aterrat la nau amb seguretat!"
+  },
+  {
+   "id": "regular:1511",
+   "translation": "Eh, en el sentit que la nau ha baixat i no m'he fet mal físic. Unes quantes reparacions menors, i és com si la nau no hagués tocat aquelles roques!"
+  },
+  {
+   "id": "regular:1512",
+   "translation": "Un dels meus intents més bons. En Feldspar gairebé no s'hauria rigut de mi, segur."
+  },
+  {
+   "id": "regular:1513",
+   "translation": "Aquesta és la bona notícia. La dolenta... Jo, eh, encara no he trobat la manera d'entrar en aquesta estructura. La porta està trencada, i sé que no sóc gaire bo explorant, però crec que ja hauria trobat una altra entrada si n'hi hagués. P... probablement."
+  },
+  {
+   "id": "regular:1514",
+   "translation": "No puc entrar des d'<i>aquí</i>, però sé que hi ha camins sota la superfície. Aniré cap al nord, a les ruïnes de l'equador, per intentar trobar una manera de baixar."
+  },
+  {
+   "id": "regular:1515",
+   "translation": "Rutile"
+  },
+  {
+   "id": "regular:1516",
+   "translation": "O sigui que de debò t'enlairaràs amb aquesta cosa, eh?"
+  },
+  {
+   "id": "regular:1517",
+   "translation": "La veritat és que ja no exploten tan sovint."
+  },
+  {
+   "id": "regular:1518",
+   "translation": "M'han dit que les meves probabilitats de supervivència són estadísticament força altes."
+  },
+  {
+   "id": "regular:1519",
+   "translation": "Només sé que entre el programa espacial i els coets de maqueta de la Mica, sembla que aquí les coses es cremen fins als fonaments més que abans."
+  },
+  {
+   "id": "regular:1520",
+   "translation": "Sí, el programa espacial sens dubte ha avançat molt. Probablement hauria d'agrair-te que causis menys incendis sobtats que els teus predecessors."
+  },
+  {
+   "id": "regular:1521",
+   "translation": "Per cert, bona sort amb aquests retrocoets."
+  },
+  {
+   "id": "regular:1522",
+   "translation": "Ei, què puc fer per tu?"
+  },
+  {
+   "id": "regular:1523",
+   "translation": "En Marl està conspirant per tallar aquell arbre gran. Una altra vegada."
+  },
+  {
+   "id": "regular:1524",
+   "translation": "Pensaràs veure el llançament?"
+  },
+  {
+   "id": "regular:1525",
+   "translation": "De debò et preocupa que el programa espacial cremi el poble?"
+  },
+  {
+   "id": "regular:1526",
+   "translation": "Estic bé."
+  },
+  {
+   "id": "regular:1527",
+   "translation": "Ai... Suposo que és el meu deure com a alcalde aturar-los. Una altra vegada."
+  },
+  {
+   "id": "regular:1528",
+   "translation": "Quan en Marl va caure d'aquell arbre i es va trencar el braç, sospito que també devia picar amb el cap mentre queia."
+  },
+  {
+   "id": "regular:1529",
+   "translation": "Sempre, constantment. Aprens a conviure-hi."
+  },
+  {
+   "id": "regular:1530",
+   "translation": "També aprens a dormir amb un poal d'aigua al costat del llit, per si de cas."
+  },
+  {
+   "id": "regular:1531",
+   "translation": "És clar!"
+  },
+  {
+   "id": "regular:1532",
+   "translation": "Miraré des d'una distància segura, és clar, i sobretot per assegurar-me que res no s'encengui. Però miraré igualment."
+  },
+  {
+   "id": "regular:1533",
+   "translation": "M'alegro de sentir-ho."
+  },
+  {
+   "id": "regular:1534",
+   "translation": "Ja has tornat? Tot bé?"
+  },
+  {
+   "id": "regular:1535",
+   "translation": "Est: ruïnes Nomai"
+  },
+  {
+   "id": "regular:1536",
+   "translation": "Nord: cràter Youngbark"
+  },
+  {
+   "id": "regular:1537",
+   "translation": "Nord-oest: muntanyes dels guèisers"
+  },
+  {
+   "id": "regular:1538",
+   "translation": "Sud: cràter del bosc quàntic"
+  },
+  {
+   "id": "regular:1539",
+   "translation": "Spinel"
+  },
+  {
+   "id": "regular:1540",
+   "translation": "Cançó de pesca, cançó de pesca... Cantar m'ajuda a passar l'estona."
+  },
+  {
+   "id": "regular:1541",
+   "translation": "Marxes del cràter? Suposo que tots estarem una mica més enfeinats sense tu per donar un cop de mà."
+  },
+  {
+   "id": "regular:1542",
+   "translation": "Aquell gran planeta d'aigua, Giant's Deep - allà és on aniria."
+  },
+  {
+   "id": "regular:1543",
+   "translation": "I per què?"
+  },
+  {
+   "id": "regular:1544",
+   "translation": "He de trobar en Hornfels."
+  },
+  {
+   "id": "regular:1545",
+   "translation": "Has provat l'observatori? Literalment, no els he vist mai enlloc més."
+  },
+  {
+   "id": "regular:1546",
+   "translation": "Una vegada, després que la resta del poble hagués anat a dormir i només érem nosaltres dos vora la foguera, en Gabbro em va explicar el seu primer viatge a Giant's Deep."
+  },
+  {
+   "id": "regular:1547",
+   "translation": "Van aterrar la nau amb força facilitat entre les onades, però no podien veure gaire avall, per culpa de com de tèrbola que era l'aigua, suposo. Massa fosca."
+  },
+  {
+   "id": "regular:1548",
+   "translation": "En Gabbro volia veure què hi havia sota la superfície, així que va decidir viatjar més fondo. Va baixar, i baixar..."
+  },
+  {
+   "id": "regular:1549",
+   "translation": "Però de sobte, en Gabbro no va poder anar més enllà."
+  },
+  {
+   "id": "regular:1550",
+   "translation": "Explica'm més."
+  },
+  {
+   "id": "regular:1551",
+   "translation": "Sí, Giant's Deep té un corrent que no es pot travessar."
+  },
+  {
+   "id": "regular:1552",
+   "translation": "He subestimat com d'avorrit seria això. Adéu."
+  },
+  {
+   "id": "regular:1553",
+   "translation": "...Sempre has estat el meu astronauta menys preferit."
+  },
+  {
+   "id": "regular:1554",
+   "translation": "Ho faré, només feia una pausa dramàtica."
+  },
+  {
+   "id": "regular:1555",
+   "translation": "Sí, d'acord, però calla un moment. Aquesta és la part bona."
+  },
+  {
+   "id": "regular:1556",
+   "translation": "Com si exercís una voluntat pròpia, l'aigua es negava a deixar que en Gabbro baixés més fondo. El retenia. ...Gairebé com si intentés protegir-lo d'alguna cosa."
+  },
+  {
+   "id": "regular:1557",
+   "translation": "I llavors, en la terrible foscor, en Gabbro ho va veure...!"
+  },
+  {
+   "id": "regular:1558",
+   "translation": "El tentacle d'una bèstia horrible!"
+  },
+  {
+   "id": "regular:1559",
+   "translation": "AHHH!"
+  },
+  {
+   "id": "regular:1560",
+   "translation": "És tot cert?"
+  },
+  {
+   "id": "regular:1561",
+   "translation": "...Hi havia vi de saba pel mig durant la història d'en Gabbro vora la foguera?"
+  },
+  {
+   "id": "regular:1562",
+   "translation": "Vull dir, això és el que va dir en Gabbro, de totes maneres. Fos el que fos, va espantar força en Gabbro."
+  },
+  {
+   "id": "regular:1563",
+   "translation": "Tothom vol sentir històries noves a la foguera del poble, saps. Assegura't de portar-n'hi alguna!"
+  },
+  {
+   "id": "regular:1564",
+   "translation": "Ho vaig sentir del mateix Gabbro! En Gabbro pot ser una mica fantasioso, és clar, però no és mentider. Vull dir, probablement, de totes maneres."
+  },
+  {
+   "id": "regular:1565",
+   "translation": "Suposo que si vols saber si la història és del tot certa, pots anar a veure Giant's Deep tu mateix!"
+  },
+  {
+   "id": "regular:1566",
+   "translation": "Pensant-ho bé, no tens algun lloc on hauries d'estar explorant que no sigui aquí?"
+  },
+  {
+   "id": "regular:1567",
+   "translation": "Cançó de pesca, cançó de pesca... Caram, crec que l'esquer no és l'adequat."
+  },
+  {
+   "id": "regular:1568",
+   "translation": "Què fas?"
+  },
+  {
+   "id": "regular:1569",
+   "translation": "Busco en Hornfels."
+  },
+  {
+   "id": "regular:1570",
+   "translation": "Res."
+  },
+  {
+   "id": "regular:1571",
+   "translation": "Ah, ells? Apostaria la pesca d'avui que són a l'observatori."
+  },
+  {
+   "id": "regular:1572",
+   "translation": "No és que hagi pescat res encara, però si ho hagués fet, segur que ho apostaria. En Hornfels està pràcticament <i>sempre</i> a l'observatori."
+  },
+  {
+   "id": "regular:1573",
+   "translation": "Molt bé. Tinc previst fer molt d'això més tard."
+  },
+  {
+   "id": "regular:1574",
+   "translation": "Ja pots marxar, suposant que hagis acabat d'espantar tots els peixos."
+  },
+  {
+   "id": "regular:1575",
+   "translation": "Escolta, ves a l'espai o queda't aquí, però tria una cosa o l'altra! Estàs espantant tots els peixos."
+  },
+  {
+   "id": "regular:1576",
+   "translation": "Melodia de pesca, melodia de pesca... eh... sí, no m'ho he pensat gens, això."
+  },
+  {
+   "id": "regular:1577",
+   "translation": "Tektite"
+  },
+  {
+   "id": "regular:1578",
+   "translation": "Hola, cria! Pensava que avui portaries la teva llauna de conserva a l'espai - què hi fas encara, aquí?"
+  },
+  {
+   "id": "regular:1579",
+   "translation": "Jo? Vaig veure com alguna cosa s'estavellava a l'horitzó i no em va agradar el que veia a les fotografies que em retornava el meu Little Scout, així que vaig pensar a venir jo mateix a fer-hi un cop d'ull."
+  },
+  {
+   "id": "regular:1580",
+   "translation": "I què s'ha estavellat?"
+  },
+  {
+   "id": "regular:1581",
+   "translation": "Això és una llavor de Dark Bramble?"
+  },
+  {
+   "id": "regular:1582",
+   "translation": "Tu una altra vegada, eh, cria? Em pensava que t'havia sentit enlairar abans. Què hi fas encara, a Timber Hearth?"
+  },
+  {
+   "id": "regular:1583",
+   "translation": "Jo? Sóc aquí fora per veure què era allò que vaig veure estavellar-se per aquí. Això, i assegurar-me que res no estigui en flames."
+  },
+  {
+   "id": "regular:1584",
+   "translation": "I què s'ha estavellat?"
+  },
+  {
+   "id": "regular:1585",
+   "translation": "Això és una llavor de Dark Bramble?"
+  },
+  {
+   "id": "regular:1586",
+   "translation": "Tu una altra vegada, eh, cria? Em pensava que t'havia sentit enlairar abans. Què hi fas encara, a Timber Hearth?"
+  },
+  {
+   "id": "regular:1587",
+   "translation": "Jo? Aquella foto de l'explorador que vas fer abans mostrava fum, així que vaig venir a comprovar si hi havia foc, recordes?"
+  },
+  {
+   "id": "regular:1588",
+   "translation": "I què s'ha estavellat?"
+  },
+  {
+   "id": "regular:1589",
+   "translation": "Això és una llavor de Dark Bramble?"
+  },
+  {
+   "id": "regular:__END__",
+   "translation": ""
+  }
+ ]
+}
