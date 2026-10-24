@@ -1,5 +1,3 @@
-![Banner](banner.png)
-
 # Traducció al català d'Outer Wilds
 
 Mod que tradueix **Outer Wilds** completament al català, fet amb
